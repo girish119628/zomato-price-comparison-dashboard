@@ -1,0 +1,730 @@
+Target_Location,Name,Cuisine,Rating,Cost_for_Two,URL
+Mathura,Pizza Hut,"Pizza, Fast Food, Desserts, Beverages",-,₹600 for two,https://www.zomato.com/mathura/pizza-hut-9-mathura-locality/info
+Mathura,The Foodies Bar,"Fast Food, Momos, Burger, Desserts, Coffee, Shake, Beverages",4.4,"₹1,000 for two",https://www.zomato.com/mathura/the-foodies-bar-mathura-locality/info
+Mathura,The Belgian Waffle Co.,"Waffle, Pancake, Ice Cream, Desserts, Beverages",-,₹200 for two,https://www.zomato.com/mathura/the-belgian-waffle-co-mathura-locality/info
+Mathura,Brijwasi Centrum,"Chinese, Continental, Desserts, Drinks Only, Fast Food, Gujarati, Ice Cream",4.2,"₹1,000 for two",https://www.zomato.com/mathura/brijwasi-centrum-mathura-locality/info
+Mathura,Centre Point,"South Indian, North Indian, Chinese",4.9,₹250 for two,https://www.zomato.com/mathura/centre-point-mathura-locality/info
+Mathura,The Trunk Bar & Restaurant,"North Indian, Mughlai, Biryani, Kebab, Asian, Thai, Chinese, Beverages",3.9,"₹1,000 for two",https://www.zomato.com/mathura/the-trunk-bar-restaurant-mathura-locality/info
+Mathura,Tomar Guest House,N/A,-,₹300 for two,https://www.zomato.com/mathura/tomar-guest-house-mathura-locality/info
+Mathura,Haldiram's,"North Indian, Mithai, Street Food, South Indian, Chinese, Beverages",3.0,₹400 for two,https://www.zomato.com/mathura/haldirams-mathura-locality/info
+Mathura,Da Pizza Point,"Pizza, Burger, Fast Food, Street Food",3.7,₹300 for two,https://www.zomato.com/mathura/da-pizza-point-mathura-locality/info
+Mathura,McDonald's,"Cafe, Beverages, Burger, Fast Food, Coffee",3.2,₹500 for two,https://www.zomato.com/mathura/mcdonalds-mathura-locality/info
+Mathura,Cha Maska,"Cafe, Coffee, North Indian, Chinese, Pizza, Fast Food, Desserts, Tea",-,"₹1,000 for two",https://www.zomato.com/mathura/cha-maska-1-mathura-locality/info
+Mathura,Pine & Dine Rooftop Cafe,"Burger, Momos, Fast Food, North Indian, Shake, Beverages",-,₹500 for two,https://www.zomato.com/mathura/pine-dine-rooftop-cafe-mathura-locality/info
+Mathura,Gola Patties & Tea Stall,"Fast Food, Bakery, Desserts",4.1,₹200 for two,https://www.zomato.com/mathura/gola-patties-tea-stall-mathura-locality/info
+Mathura,Hot Bite Fresh And Tasty Food,"Fast Food, Chinese, Street Food",3.4,₹200 for two,https://www.zomato.com/mathura/hot-bite-fresh-and-tasty-food-mathura-locality/info
+Mathura,The Burger Hub,"Pizza, Fast Food, Street Food",3.8,₹350 for two,https://www.zomato.com/mathura/the-burger-hub-mathura-locality/info
+Mathura,Pizza Paradise,"Fast Food, Chinese, Street Food",3.8,₹300 for two,https://www.zomato.com/mathura/pizza-paradise-mathura-locality/info
+Mathura,Agrawal Restaurant (Since 1969),"North Indian, Fast Food",3.9,₹300 for two,https://www.zomato.com/mathura/agrawal-restaurant-since-1969-mathura-locality/info
+Mathura,Mittal Foods,"North Indian, Chinese",3.9,₹350 for two,https://www.zomato.com/mathura/mittal-foods-1-mathura-locality/info
+Mathura,Bhole Brijwasi Bhojnalay,N/A,3.0,₹300 for two,https://www.zomato.com/mathura/bhole-brijwasi-bhojnalay-mathura-locality/info
+Mathura,The Pizza Hub,"Fast Food, Pizza, Burger, Sandwich, Beverages, Street Food, South Indian",-,₹300 for two,https://www.zomato.com/mathura/the-pizza-hub-mathura-locality/info
+Mathura,Shankar Mithai Wala,"Mithai, North Indian, Beverages",4.6,₹350 for two,https://www.zomato.com/mathura/shankar-mithai-wala-mathura-locality/info
+Mathura,Burger King,"Burger, Fast Food, Beverages",3.8,₹350 for two,https://www.zomato.com/mathura/burger-king-mathura-locality/info
+Mathura,Maa Gaura Restaurant,"North Indian, Chinese, Street Food",N/A,₹450 for two,https://www.zomato.com/mathura/maa-gaura-restaurant-mathura-locality/info
+Mathura,Domino's Pizza,"Pizza, Italian, Pasta, Fast Food, Desserts",2.4,₹400 for two,https://www.zomato.com/mathura/dominos-pizza-1-mathura-locality/info
+Mathura,Sanskar Foods,"Fast Food, North Indian, Beverages",-,₹300 for two,https://www.zomato.com/mathura/sanskar-foods-mathura-locality/info
+Mathura,KFC,"Burger, Fast Food, Rolls",3.6,₹500 for two,https://www.zomato.com/mathura/kfc-1-mathura-locality/info
+Mathura,Hotel Brijwasi Royal,"South Indian, Sandwich, North Indian, Chinese, Beverages",3.6,"₹1,000 for two",https://www.zomato.com/mathura/hotel-brijwasi-royal-mathura-locality/info
+Mathura,Dosa Plaza - Hotel Divinity,"South Indian, North Indian, Chinese",4.0,₹550 for two,https://www.zomato.com/mathura/dosa-plaza-hotel-divinity-mathura-locality/info
+Mathura,New Pizza Point Restaurant,"Pizza, Burger, Street Food, Fast Food",-,₹300 for two,https://www.zomato.com/mathura/new-pizza-point-restaurant-mathura-locality/info
+Mathura,Gokul Hotel & Family Restaurant,"North Indian, Beverages",-,₹200 for two,https://www.zomato.com/mathura/gokul-hotel-family-restaurant-mathura-locality/info
+Mathura,Rudr Shiva By Mama Yadav,"North Indian, Chinese",3.6,"₹1,000 for two",https://www.zomato.com/mathura/rudr-shiva-by-mama-yadav-mathura-locality/info
+Mathura,Prince Restaurant,"Fast Food, North Indian, Charcoal Chicken, Biryani",4.6,"₹1,000 for two",https://www.zomato.com/mathura/prince-restaurant-2-mathura-locality/info
+Mathura,Rahul Bakers,"Bakery, North Indian",3.9,₹450 for two,https://www.zomato.com/mathura/rahul-bakers-mathura-locality/info
+Mathura,Shri Giriraj Ji Parathe Wale,N/A,N/A,₹250 for two,https://www.zomato.com/mathura/shri-giriraj-ji-parathe-wale-mathura-locality/info
+Mathura,Shyambhog Family Restaurant,"North Indian, Chinese, Fast Food",N/A,₹400 for two,https://www.zomato.com/mathura/shyambhog-family-restaurant-mathura-locality/info
+Mathura,Vijay Store & Confectioners,N/A,-,₹200 for two,https://www.zomato.com/mathura/vijay-store-confectioners-1-mathura-locality/info
+Mathura,The Elyra Cafe & Restaurant,"North Indian, South Indian, Chinese, Pizza, Fast Food, Desserts, Shake, Beverages",-,"₹1,000 for two",https://www.zomato.com/mathura/the-elyra-cafe-restaurant-1-mathura-locality/info
+Mathura,Lazeej,"Fast Food, North Indian, Street Food, Juices",-,₹200 for two,https://www.zomato.com/mathura/lazeej-mathura-locality/info
+Mathura,Vip Pizza,"Street Food, Fast Food, Pizza, Shake, Beverages",-,₹300 for two,https://www.zomato.com/mathura/vip-pizza-3-mathura-locality/info
+Mathura,Majeed Restaurant,"Biryani, Mughlai, Afghan",3.7,₹200 for two,https://www.zomato.com/mathura/majeed-restaurant-3-mathura-locality/info
+Mathura,Standard Cake Bank,"Pizza, Fast Food, Burger",3.8,₹200 for two,https://www.zomato.com/mathura/standard-cake-bank-mathura-locality/info
+Mathura,OM Sweet Center,"Mithai, Street Food",4.8,₹250 for two,https://www.zomato.com/mathura/om-sweet-center-mathura-locality/info
+Mathura,Shri Giriraj Subhadra Bhojnalaya,"Fast Food, Shake, Beverages",-,₹200 for two,https://www.zomato.com/mathura/shri-giriraj-subhadra-bhojnalaya-mathura-locality/info
+Mathura,Burger Monk,"Burger, Pizza, Sandwich, Wraps, Fast Food, Shake, Beverages",4.1,₹450 for two,https://www.zomato.com/mathura/burger-monk-mathura-locality/info
+Mathura,Hotel Heera Kunj Residency,"North Indian, Chinese, South Indian",3.9,₹300 for two,https://www.zomato.com/mathura/hotel-heera-kunj-residency-mathura-locality/info
+Mathura,Coco Chocolate Company,"Desserts, Beverages, Fast Food",3.1,₹300 for two,https://www.zomato.com/mathura/coco-chocolate-company-mathura-locality/info
+Mathura,Pastas By Pizza Hut,"Pasta, Italian",-,₹200 for two,https://www.zomato.com/mathura/pastas-by-pizza-hut-2-mathura-locality/info
+Mathura,Foodies Vampire,"Pizza, Burger, Sandwich, Fast Food, Street Food, Tea, Shake, Beverages",-,₹400 for two,https://www.zomato.com/mathura/foodies-vampire-mathura-locality/info
+Mathura,Burger Point,"Burger, Fast Food",3.7,₹300 for two,https://www.zomato.com/mathura/burger-point-3-mathura-locality/info
+Mathura,Basera Restaurant,"North Indian, Fast Food",3.9,₹300 for two,https://www.zomato.com/mathura/basera-restaurant-mathura-locality/info
+Mathura,Rhea's Cafe,"South Indian, Street Food, Beverages",3.8,₹200 for two,https://www.zomato.com/mathura/rheas-cafe-1-mathura-locality/info
+Mathura,Madhav Muskan Residency,"North Indian, Fast Food, Shake",3.9,₹300 for two,https://www.zomato.com/mathura/madhav-muskan-residency-6-mathura-locality/info
+Mathura,SAM bakers,"Fast Food, Bakery",-,₹200 for two,https://www.zomato.com/mathura/sam-bakers-1-mathura-locality/info
+Mathura,Tasty Fresh,"North Indian, Pizza, Burger, Chinese, Fast Food",-,₹300 for two,https://www.zomato.com/mathura/tasty-fresh-3-mathura-locality/info
+Mathura,Kanhaiya Bhojnalay,N/A,3.2,₹300 for two,https://www.zomato.com/mathura/kanhaiya-bhojnalay-mathura-locality/info
+Mathura,La Pino'z Pizza,N/A,3.7,₹300 for two,https://www.zomato.com/mathura/la-pinoz-pizza-1-mathura-locality/info
+Mathura,Pizza And Pizza,"Fast Food, Pizza, Pasta, Burger, Rolls, Momos, Beverages, Shake",2.6,₹300 for two,https://www.zomato.com/mathura/pizza-and-pizza-mathura-locality/info
+Mathura,Aryavilas,"North Indian, Chinese, Fast Food, Beverages",-,"₹1,000 for two",https://www.zomato.com/mathura/aryavilas-mathura-locality/info
+Mathura,DND Cafe & Restro,"Fast Food, Pasta, Pizza, Chinese, Shake, Beverages",3.3,₹300 for two,https://www.zomato.com/mathura/dnd-cafe-restro-2-mathura-locality/info
+Mathura,Oven 180,N/A,3.4,₹100 for two,https://www.zomato.com/mathura/oven-180-mathura-locality/info
+Mathura,Shankar Foods,"Chinese, North Indian, South Indian",4.1,₹400 for two,https://www.zomato.com/mathura/shankar-foods-mathura-locality/info
+Mathura,TAF The Annapurna Foods,"North Indian, Chinese, Street Food, Beverages",-,₹450 for two,https://www.zomato.com/mathura/taf-the-annapurna-foods-mathura-locality/info
+Mathura,Brijwasi Krishna Nagar,"North Indian, South Indian, Fast Food",4.0,₹200 for two,https://www.zomato.com/mathura/brijwasi-krishna-nagar-mathura-locality/info
+Mathura,Anita Bakers,"Bakery, Desserts, Burger, Pizza, Street Food",-,₹300 for two,https://www.zomato.com/mathura/anita-bakers-mathura-locality/info
+Mathura,Fox Fire,"North Indian, Chinese, Pizza, Sandwich, Fast Food, Desserts, Shake, Beverages",3.4,₹400 for two,https://www.zomato.com/mathura/fox-fire-1-mathura-locality/info
+Mathura,Raman Misthan Bhandar,"Mithai, Desserts",-,₹200 for two,https://www.zomato.com/mathura/raman-misthan-bhandar-mathura-locality/info
+Mathura,Taj Hotel,N/A,4.0,₹400 for two,https://www.zomato.com/mathura/taj-hotel-mathura-locality/info
+Mathura,Basera Khel Gaon,N/A,-,₹200 for two,https://www.zomato.com/mathura/basera-khel-gaon-mathura-locality/info
+Mathura,Kanhiya Bhojnalya,N/A,-,₹300 for two,https://www.zomato.com/mathura/kanhiya-bhojnalya-mathura-locality/info
+Mathura,MADHAVAM,"North Indian, South Indian, Chinese, Fast Food, Street Food, Beverages",3.4,₹250 for two,https://www.zomato.com/mathura/madhavam-2-mathura-locality/info
+Mathura,Fat Tiger Multicuisine Restaurant,N/A,-,₹350 for two,https://www.zomato.com/mathura/fat-tiger-multicuisine-restaurant-mathura-locality/info
+Mathura,Punjabi Rasoi Chicken Corner - NH 2,"Mughlai, North Indian",3.2,₹300 for two,https://www.zomato.com/mathura/punjabi-rasoi-chicken-corner-nh-2-mathura-locality/info
+Mathura,Hashim Chicken Biryani Wale,N/A,3.1,₹200 for two,https://www.zomato.com/mathura/hashim-chicken-biryani-wale-mathura-locality/info
+Mathura,Kerala Coffee House,"South Indian, Fast Food, North Indian",3.9,₹200 for two,https://www.zomato.com/mathura/kerala-coffee-house-mathura-locality/info
+Mathura,Burger Budds,"Burger, Sandwich, Pizza, Wraps, Fast Food, Shake, Beverages",4.2,₹400 for two,https://www.zomato.com/mathura/burger-budds-mathura-locality/info
+Mathura,Gola Paties & Confectionery,N/A,3.6,₹250 for two,https://www.zomato.com/mathura/gola-paties-confectionery-1-mathura-locality/info
+Mathura,Winni Cakes & More,"Bakery, Desserts, Pizza, Sandwich, Wraps, Pasta, Waffle, Beverages",3.4,₹500 for two,https://www.zomato.com/mathura/winni-cakes-more-mathura-locality/info
+Mathura,Y & Y Veg Grill,"North Indian, Chinese, Momos, Fast Food",3.3,₹300 for two,https://www.zomato.com/mathura/y-y-veg-grill-mathura-locality/info
+Mathura,Radhika Sweets,"Mithai, Fast Food",3.6,₹200 for two,https://www.zomato.com/mathura/radhika-sweets-1-mathura-locality/info
+Mathura,Thaliwala,"North Indian, Sandwich",-,₹350 for two,https://www.zomato.com/mathura/thaliwala-mathura-locality/info
+Mathura,Chakhna,"Street Food, Momos, Fast Food",4.1,₹250 for two,https://www.zomato.com/mathura/chakhna-mathura-locality/info
+Mathura,Moti Mahal Delux,"Mughlai, North Indian, Continental, Chinese, Biryani",3.9,₹600 for two,https://www.zomato.com/mathura/moti-mahal-delux-mathura-locality/info
+Mathura,Hotel Abhinandan,"North Indian, Mughlai",3.9,₹400 for two,https://www.zomato.com/mathura/hotel-abhinandan-3-mathura-locality/info
+Mathura,Taj Hotel,"North Indian, Biryani",-,₹200 for two,https://www.zomato.com/mathura/taj-hotel-1-mathura-locality/info
+Mathura,Shankar N Modi Bakers Zone,"Bakery, Chinese, Continental, Burger, Sandwich, Fast Food, Shake",4.2,₹400 for two,https://www.zomato.com/mathura/shankar-n-modi-bakers-zone-1-mathura-locality/info
+Mathura,BMAC By Kasey,"Cafe, Fast Food, Bakery, Desserts, Beverages",3.5,₹500 for two,https://www.zomato.com/mathura/bmac-by-kasey-mathura-locality/info
+Mathura,Kcr Sainik Restaurant,"North Indian, South Indian",3.9,₹250 for two,https://www.zomato.com/mathura/kcr-sainik-restaurant-2-mathura-locality/info
+Mathura,MunchBox,"Chinese, North Indian",3.9,₹300 for two,https://www.zomato.com/mathura/munchbox-2-mathura-locality/info
+Mathura,Rahul Petiz Corner,N/A,2.9,₹150 for two,https://www.zomato.com/mathura/rahul-petiz-corner-mathura-locality/info
+Mathura,Hotel Sheetal Regency,"North Indian, Chinese, Beverages, Desserts",3.7,"₹1,000 for two",https://www.zomato.com/mathura/hotel-sheetal-regency-mathura-locality/info
+Mathura,Punjabi Rasoi Since 2001,N/A,3.9,₹300 for two,https://www.zomato.com/mathura/punjabi-rasoi-since-2001-1-mathura-locality/info
+Mathura,Pizza House,"Burger, Sandwich, Fast Food, Street Food, Pizza",3.7,₹350 for two,https://www.zomato.com/mathura/pizza-house-6-mathura-locality/info
+Mathura,New Punjabi Rasoi Chicken Corner,"Charcoal Chicken, North Indian, Mughlai",-,₹400 for two,https://www.zomato.com/mathura/new-punjabi-rasoi-chicken-corner-mathura-locality/info
+Mathura,Manhar Family Bhojnalaya,N/A,3.9,₹650 for two,https://www.zomato.com/mathura/manhar-family-bhojnalaya-mathura-locality/info
+Mathura,Golden Spoon Cafe,"Pizza, Momos, Fast Food, Pasta, Chinese, Street Food, Shake, Beverages",-,₹450 for two,https://www.zomato.com/mathura/golden-spoon-cafe-mathura-locality/info
+Mathura,Hotel Guru Kripa Grand,"North Indian, Burger, Chinese, Fast Food, Desserts, Beverages",-,"₹1,000 for two",https://www.zomato.com/mathura/hotel-guru-kripa-grand-mathura-locality/info
+Mathura,Mayur Cafe,"Cafe, Coffee, Pizza, Pasta, Fast Food, Sandwich, Desserts, Beverages",3.9,₹600 for two,https://www.zomato.com/mathura/mayur-cafe-mathura-locality/info
+Mathura,United Canteen,"South Indian, North Indian, Beverages, Chinese, Street Food, Desserts",3.7,₹350 for two,https://www.zomato.com/mathura/united-canteen-mathura-locality/info
+Mathura,The Pizzeria Hub,"Pizza, Fast Food, Chinese, Beverages",3.6,₹500 for two,https://www.zomato.com/mathura/the-pizzeria-hub-mathura-locality/info
+Mathura,The Taj Family Restaurant,"North Indian, Mughlai",-,₹600 for two,https://www.zomato.com/mathura/the-taj-family-restaurant-mathura-locality/info
+Mathura,Jai Shree Restaurant,N/A,3.9,₹250 for two,https://www.zomato.com/mathura/jai-shree-restaurant-1-mathura-locality/info
+Mathura,Cafe BLU,"Burger, Fast Food, Beverages, Cafe",4.3,₹250 for two,https://www.zomato.com/mathura/cafe-blu-mathura-locality/info
+Mathura,Craving King,"North Indian, South Indian, Chinese, Fast Food, Momos, Beverages, Continental, Desserts",4.1,₹750 for two,https://www.zomato.com/mathura/craving-king-mathura-locality/info
+Mathura,Aahar Family Restaurant,"North Indian, Chinese, Street Food, Beverages",-,₹400 for two,https://www.zomato.com/mathura/aahar-family-restaurant-1-mathura-locality/info
+Mathura,Barista Coffee,"Cafe, Coffee, Beverages, Fast Food",3.2,₹500 for two,https://www.zomato.com/mathura/barista-coffee-mathura-locality/info
+Mathura,Titu Gola Veg Biryani,"North Indian, Street Food, Chinese, Biryani",3.9,₹200 for two,https://www.zomato.com/mathura/titu-gola-veg-biryani-mathura-locality/info
+Mathura,The Hideout Cafe,"North Indian, South Indian, Pizza, Fast Food, Momos, Street Food, Chinese, Shake",3.4,₹350 for two,https://www.zomato.com/mathura/the-hideout-cafe-1-mathura-locality/info
+Mathura,Urban Sky - Rooftop Cafe & Bar,"Mediterranean, Thai, Mexican, Chinese, Italian, Beverages",2.9,₹600 for two,https://www.zomato.com/mathura/urban-sky-rooftop-cafe-bar-mathura-locality/info
+Mathura,Punjabi Tadka,"North Indian, Mughlai",3.9,₹500 for two,https://www.zomato.com/mathura/punjabi-tadka-mathura-locality/info
+Mathura,October Shakes & Snacks,"Burger, Pizza, Fast Food, Sandwich, Wraps, Shake, Tea, Beverages",3.8,₹400 for two,https://www.zomato.com/mathura/october-shakes-snacks-1-mathura-locality/info
+Mathura,Brijwasi Bakers,"Bakery, Fast Food",3.9,₹300 for two,https://www.zomato.com/mathura/brijwasi-bakers-mathura-locality/info
+Mathura,Retro Cafe,"Momos, Chinese, Wraps, Sandwich, Fast Food, Street Food",3.8,₹400 for two,https://www.zomato.com/mathura/retro-cafe-2-mathura-locality/info
+Mathura,Vijay Food - Veg & Non Veg,"North Indian, Kebab, Chinese",-,"₹1,000 for two",https://www.zomato.com/mathura/vijay-food-veg-non-veg-mathura-locality/info
+Mathura,Chatkara Fast Food,N/A,3.5,₹250 for two,https://www.zomato.com/mathura/chatkara-fast-food-1-mathura-locality/info
+Mathura,Goyal Cakes And Baker,N/A,3.6,₹150 for two,https://www.zomato.com/mathura/goyal-cakes-and-baker-mathura-locality/info
+Mathura,Le Chaska Chaat,"South Indian, Street Food, Chinese, Maharashtrian, North Indian",4.0,₹300 for two,https://www.zomato.com/mathura/le-chaska-chaat-mathura-locality/info
+Mathura,Majestic's Pizza Pro,"Pizza, Burger, Fast Food",3.3,₹600 for two,https://www.zomato.com/mathura/majestics-pizza-pro-1-mathura-locality/info
+Mathura,Dawat Restaurant,"North Indian, Chinese, Street Food, Beverages",2.8,₹450 for two,https://www.zomato.com/mathura/dawat-restaurant-mathura-locality/info
+Mathura,The Khandooz Cafe,"Chinese, Fast Food, Beverages, Shake, Burger, Momos",4.0,₹350 for two,https://www.zomato.com/mathura/the-khandooz-cafe-mathura-locality/info
+Mathura,SI & Sa Food Cafe,"Chinese, Momos, Shake",3.8,₹200 for two,https://www.zomato.com/mathura/si-sa-food-cafe-mathura-locality/info
+Mathura,Chill 'n' Grill,"Fast Food, Pizza, Burger, Momos, Street Food, Beverages",3.9,₹250 for two,https://www.zomato.com/mathura/chill-n-grill-mathura-locality/info
+Mathura,Uptowns Mumbai Cafe,"South Indian, Street Food, Chinese, Momos, Shake, Beverages",3.3,₹400 for two,https://www.zomato.com/mathura/uptowns-mumbai-cafe-mathura-locality/info
+Mathura,Bansal Foods,N/A,3.9,₹250 for two,https://www.zomato.com/mathura/bansal-foods-mathura-locality/info
+Mathura,Ice Spice,"Beverages, Chinese, Shake, North Indian, South Indian",3.9,₹300 for two,https://www.zomato.com/mathura/ice-spice-1-mathura-locality/info
+Mathura,Savage Cafe And Bakery,"Chinese, Sandwich, Burger, Pizza, Pasta, Beverages",3.4,₹300 for two,https://www.zomato.com/mathura/savage-cafe-and-bakery-mathura-locality/info
+Mathura,Hotel Taj,"North Indian, Mughlai, Biryani",-,₹800 for two,https://www.zomato.com/mathura/hotel-taj-mathura-locality/info
+Mathura,Two21 Cafe,"Cafe, Burger, Chinese, Coffee, Desserts, French, Shake",4.4,₹500 for two,https://www.zomato.com/mathura/two21-cafe-mathura-locality/info
+Mathura,Anandvan,"North Indian, Fast Food",3.7,₹700 for two,https://www.zomato.com/mathura/anandvan-mathura-locality/info
+Mathura,Cozy Cafe,"Fast Food, Beverages",3.9,₹350 for two,https://www.zomato.com/mathura/cozy-cafe-mathura-locality/info
+Mathura,Punjabi Restaurant,N/A,3.8,₹200 for two,https://www.zomato.com/mathura/punjabi-restaurant-mathura-locality/info
+Mathura,Raghunath Das Prabhudayal Mithai wale,"Mithai, Fast Food, Beverages",3.9,₹150 for two,https://www.zomato.com/mathura/raghunath-das-prabhudayal-mithai-wale-mathura-locality/info
+Mathura,1 More Slice Pizza,"Pizza, Burger, Fast Food, Beverages",3.7,₹300 for two,https://www.zomato.com/mathura/1-more-slice-pizza-mathura-locality/info
+Mathura,Brij Bites,"North Indian, South Indian",3.9,₹150 for two,https://www.zomato.com/mathura/brij-bites-mathura-locality/info
+Mathura,Charu Confectionery,"Fast Food, Bakery",3.9,₹200 for two,https://www.zomato.com/mathura/charu-confectionery-mathura-locality/info
+Mathura,Planet of kids,"Fast Food, Street Food, Tea, Coffee, Desserts, Ice Cream",-,₹450 for two,https://www.zomato.com/mathura/planet-of-kids-1-mathura-locality/info
+Mathura,Zoca Cafe & Family Restaurant,"North Indian, Italian, Oriental, Chinese, Fast Food, Pizza, Sandwich, Salad",-,"₹1,000 for two",https://www.zomato.com/mathura/zoca-cafe-family-restaurant-mathura-locality/info
+Mathura,Amritsari Rasoi,N/A,3.4,₹100 for two,https://www.zomato.com/mathura/amritsari-rasoi-mathura-locality/info
+Mathura,New Aahar Restaurant,"North Indian, Chinese",3.5,₹250 for two,https://www.zomato.com/mathura/new-aahar-restaurant-1-mathura-locality/info
+Mathura,Chai Sutta Bar,"Fast Food, Sandwich, Beverages, Tea",3.9,₹300 for two,https://www.zomato.com/mathura/chai-sutta-bar-1-mathura-locality/info
+Mathura,The Midnight Cafe And Restaurant,"Sandwich, Wraps, Pasta, Pizza, Chinese, Street Food, Shake, Beverages",-,₹300 for two,https://www.zomato.com/mathura/the-midnight-cafe-and-restaurant-mathura-locality/info
+Mathura,Muskan Guest House,"South Indian, North Indian, Fast Food, Chinese",4.0,₹250 for two,https://www.zomato.com/mathura/muskan-guest-house-mathura-locality/info
+Mathura,Momomia - Love In Every Bite,"Chinese, Fast Food, Shake, Beverages, Street Food, Momos",3.0,₹250 for two,https://www.zomato.com/mathura/momomia-love-in-every-bite-mathura-locality/info
+Mathura,Tulsi Restaurent,"North Indian, Chettinad, Fast Food",3.4,₹300 for two,https://www.zomato.com/mathura/tulsi-restaurent-mathura-locality/info
+Mathura,Cyber Cafe Restaurant,"North Indian, South Indian",3.5,₹100 for two,https://www.zomato.com/mathura/cyber-cafe-restaurant-mathura-locality/info
+Mathura,Big Bills Foods,"North Indian, Fast Food, Pizza, Bakery, Beverages, Continental",3.8,₹300 for two,https://www.zomato.com/mathura/big-bills-foods-mathura-locality/info
+Mathura,Wah Mathura,"North Indian, Chinese",3.8,₹300 for two,https://www.zomato.com/mathura/wah-mathura-mathura-locality/info
+Mathura,The Food Garage,"Continental, Pizza, American, Fast Food",3.9,₹250 for two,https://www.zomato.com/mathura/the-food-garage-mathura-locality/info
+Mathura,Rolls Mania & Tea Point,"Rolls, Tea, Street Food",3.3,₹100 for two,https://www.zomato.com/mathura/rolls-mania-tea-point-mathura-locality/info
+Mathura,The Mathura Cafe,"Pizza, Burger, Sandwich, Wraps, Maharashtrian",3.9,₹150 for two,https://www.zomato.com/mathura/the-mathura-cafe-mathura-locality/info
+Mathura,Junoon Pizza,"Pizza, Beverages",3.3,₹500 for two,https://www.zomato.com/mathura/junoon-pizza-1-mathura-locality/info
+Mathura,Wah JI Wah Restaurant,"Chinese, North Indian",3.2,₹350 for two,https://www.zomato.com/mathura/wah-ji-wah-restaurant-mathura-locality/info
+Mathura,Aman Chicken And Fish Fry Restaurant,"North Indian, Mughlai",2.7,₹350 for two,https://www.zomato.com/mathura/aman-chicken-and-fish-fry-restaurant-mathura-locality/info
+Mathura,Galaxy Cafe & Restro,"North Indian, Chinese, Pizza, Sandwich, Momos, Fast Food, Shake, Beverages",-,₹400 for two,https://www.zomato.com/mathura/galaxy-cafe-restro-1-mathura-locality/info
+Mathura,Cafe GF,"Fast Food, Burger, Sandwich",3.9,₹250 for two,https://www.zomato.com/mathura/cafe-gf-mathura-locality/info
+Mathura,Mala Guest House And Restaurant,"North Indian, Street Food, Coffee, Desserts",3.9,₹300 for two,https://www.zomato.com/mathura/mala-guest-house-and-restaurant-mathura-locality/info
+Mathura,The Foodies Hut,"Fast Food, Pizza, Street Food, Chinese, Sandwich",3.9,₹350 for two,https://www.zomato.com/mathura/the-foodies-hut-mathura-locality/info
+Mathura,Busy Beans Cafe,"Rolls, Pizza, Sandwich, Pasta, Fast Food, Coffee, Shake, Beverages",3.8,₹400 for two,https://www.zomato.com/mathura/busy-beans-cafe-mathura-locality/info
+Mathura,Funduz Cafe,"American, Cafe",3.7,₹300 for two,https://www.zomato.com/mathura/funduz-cafe-mathura-locality/info
+Mathura,Hotel Aatithya Palace,"North Indian, Chinese, Street Food",3.9,₹350 for two,https://www.zomato.com/mathura/hotel-aatithya-palace-mathura-locality/info
+Mathura,Shri Krishna Foods,"South Indian, North Indian, Fast Food, Chinese",3.6,₹300 for two,https://www.zomato.com/mathura/shri-krishna-foods-mathura-locality/info
+Mathura,Date Soul Mate Cafe,"Fast Food, Beverages",3.3,₹300 for two,https://www.zomato.com/mathura/date-soul-mate-cafe-1-mathura-locality/info
+Mathura,@4 PM,"Chinese, North Indian, Rolls, Momos, Pasta, Burger, Fast Food, Beverages",3.9,₹350 for two,https://www.zomato.com/mathura/@4-pm-mathura-locality/info
+Mathura,Hariom Ji Chamcham Wale,"Mithai, Fast Food",3.8,₹250 for two,https://www.zomato.com/mathura/hariom-ji-chamcham-wale-mathura-locality/info
+Mathura,Bulaki Chai Wale,N/A,3.9,₹100 for two,https://www.zomato.com/mathura/bulaki-chai-wale-mathura-locality/info
+Mathura,Khao Piyo Jiyo,"Chinese, North Indian",3.6,₹200 for two,https://www.zomato.com/mathura/khao-piyo-jiyo-mathura-locality/info
+Mathura,Loft Cafe & Restaurant,"Pizza, North Indian, Fast Food, Burger, Sandwich, Beverages, Shake, Salad",3.9,₹400 for two,https://www.zomato.com/mathura/loft-cafe-restaurant-mathura-locality/info
+Mathura,Zaika -The Mansion,"Chinese, Cafe, Continental, North Indian, Italian, South Indian",3.4,"₹1,000 for two",https://www.zomato.com/mathura/zaika-the-mansion-mathura-locality/info
+Mathura,Gup Shup Cafe And Foods,"Fast Food, North Indian",3.9,₹450 for two,https://www.zomato.com/mathura/gup-shup-cafe-and-foods-mathura-locality/info
+Mathura,Rock N Roll Foods,"Chinese, North Indian, South Indian, Momos, Street Food, Beverages",3.7,₹400 for two,https://www.zomato.com/mathura/rock-n-roll-foods-1-mathura-locality/info
+Mathura,The Pizza Empire,N/A,3.1,₹400 for two,https://www.zomato.com/mathura/the-pizza-empire-mathura-locality/info
+Mathura,Nikhil Family Restaurant,"North Indian, Chinese",3.8,₹100 for two,https://www.zomato.com/mathura/nikhil-family-restaurant-mathura-locality/info
+Mathura,Mohit Cafe,"Sandwich, Chinese, Burger, Pizza",3.3,₹200 for two,https://www.zomato.com/mathura/mohit-cafe-mathura-locality/info
+Mathura,7 Minutes,"Beverages, Juices, Fast Food",3.4,₹350 for two,https://www.zomato.com/mathura/7-minutes-mathura-locality/info
+Mathura,Pizza Olive,"Pizza, Fast Food",3.9,₹300 for two,https://www.zomato.com/mathura/pizza-olive-mathura-locality/info
+Mathura,The Biryani Wala,"Biryani, Salad, Street Food",-,₹150 for two,https://www.zomato.com/mathura/the-biryani-wala-mathura-locality/info
+Mathura,Bhole Misthan Bhandar,"Mithai, Fast Food",3.4,₹300 for two,https://www.zomato.com/mathura/bhole-misthan-bhandar-mathura-locality/info
+Mathura,Zoomeno'd Pizza,"Pizza, Burger, Fast Food",-,₹300 for two,https://www.zomato.com/mathura/zoomenod-pizza-mathura-locality/info
+Mathura,Marvello Shake,"Beverages, Ice Cream, Shake",3.6,₹300 for two,https://www.zomato.com/mathura/marvello-shake-mathura-locality/info
+Mathura,Hugs & Bite,"Fast Food, Coffee, Chinese, Street Food, Ice Cream, Desserts, Beverages",-,₹600 for two,https://www.zomato.com/mathura/hugs-bite-3-mathura-locality/info
+Mathura,Food Hut Restaurant,"North Indian, Fast Food, Chinese",3.4,₹250 for two,https://www.zomato.com/mathura/food-hut-restaurant-mathura-locality/info
+Mathura,Rohit Confectionery,"Fast Food, Bakery, Desserts",3.2,₹200 for two,https://www.zomato.com/mathura/rohit-confectionery-mathura-locality/info
+Mathura,Hotel Galaxy,"South Indian, North Indian, Chinese, Shake",3.2,₹400 for two,https://www.zomato.com/mathura/hotel-galaxy-mathura-locality/info
+Mathura,Gola Confectionary,N/A,3.3,₹150 for two,https://www.zomato.com/mathura/gola-confectionary-1-mathura-locality/info
+Mathura,Directors Lounge,"Tea, Street Food, Fast Food, Burger, Sandwich, Chinese, North Indian, Beverages",3.4,₹150 for two,https://www.zomato.com/mathura/directors-lounge-mathura-locality/info
+Mathura,Sainik Family Restaurant,"Chinese, North Indian, Street Food, Beverages",-,₹400 for two,https://www.zomato.com/mathura/sainik-family-restaurant-mathura-locality/info
+Mathura,The Gravy Talk,"North Indian, Chinese, Sandwich",3.5,₹500 for two,https://www.zomato.com/mathura/the-gravy-talk-1-mathura-locality/info
+Mathura,Ponia Sweets And Restaurant,"Mithai, Chinese, Fast Food, Ice Cream, Beverages",-,₹400 for two,https://www.zomato.com/mathura/ponia-sweets-and-restaurant-mathura-locality/info
+Mathura,Yadav Family Dhaba,"North Indian, Beverages",-,₹350 for two,https://www.zomato.com/mathura/yadav-family-dhaba-1-mathura-locality/info
+Mathura,One Bite,"Burger, Pizza, Fast Food, Desserts, Beverages",-,₹250 for two,https://www.zomato.com/mathura/one-bite-mathura-locality/info
+Mathura,Momos Hub,"Momos, Rolls, Street Food",-,₹250 for two,https://www.zomato.com/mathura/momos-hub-2-mathura-locality/info
+Mathura,"Gianis - Ice Cream, Shakes & Sundaes",N/A,-,₹250 for two,https://www.zomato.com/mathura/gianis-ice-cream-shakes-sundaes-mathura-locality/info
+Mathura,Cake Hut,"Bakery, Desserts, Chinese",-,₹200 for two,https://www.zomato.com/mathura/cake-hut-mathura-locality/info
+Mathura,Bhookha Sand,"Fast Food, Beverages",-,₹200 for two,https://www.zomato.com/mathura/bhookha-sand-mathura-locality/info
+Mathura,MBA Chaiwala,"Tea, Fast Food, Burger, Sandwich, Pizza, Street Food, Shake, Beverages",-,₹300 for two,https://www.zomato.com/mathura/mba-chaiwala-mathura-locality/info
+Mathura,Chaichowk,"Chinese, Continental, Sandwich, North Indian, Pizza, Momos, Desserts, South Indian",2.7,₹350 for two,https://www.zomato.com/mathura/chaichowk-mathura-locality/info
+Mathura,Rajput Food,N/A,2.8,₹100 for two,https://www.zomato.com/mathura/rajput-food-mathura-locality/info
+Mathura,Gagga Chicken Darbar,"Mughlai, Biryani, North Indian",-,₹150 for two,https://www.zomato.com/mathura/gagga-chicken-darbar-mathura-locality/info
+Mathura,BK Cafe By Burger King,"Cafe, Fast Food, Beverages",-,₹500 for two,https://www.zomato.com/mathura/bk-cafe-by-burger-king-mathura-locality/info
+Mathura,Brijwasi Chole Kulche Vala,N/A,-,₹150 for two,https://www.zomato.com/mathura/brijwasi-chole-kulche-vala-mathura-locality/info
+Mathura,The Burger Company,"Burger, Fast Food, Pizza, Momos, Beverages, Sandwich",-,₹300 for two,https://www.zomato.com/mathura/the-burger-company-mathura-locality/info
+Mathura,Taj Hotel,"North Indian, Mughlai, Seafood",-,₹450 for two,https://www.zomato.com/mathura/taj-hotel-2-mathura-locality/info
+Mathura,Oma Pehalwan Kachori Wale,"Street Food, Desserts",-,₹100 for two,https://www.zomato.com/mathura/oma-pehalwan-kachori-wale-mathura-locality/info
+Mathura,Maa Ki Rasoi Veg Restaurant,"North Indian, Fast Food, Chinese, Street Food, Shake",-,₹600 for two,https://www.zomato.com/mathura/maa-ki-rasoi-veg-restaurant-mathura-locality/info
+Mathura,Khana Khazana Family Restaurant,N/A,-,₹300 for two,https://www.zomato.com/mathura/khana-khazana-family-restaurant-mathura-locality/info
+Mathura,Barista,N/A,-,₹200 for two,https://www.zomato.com/mathura/barista-mathura-locality/info
+Mathura,Chaudhary Family Dhaba,N/A,-,₹350 for two,https://www.zomato.com/mathura/chaudhary-family-dhaba-3-mathura-locality/info
+Mathura,The Down Town Cafe And Restaurant,"Burger, Sandwich, Fast Food, Street Food, Pizza, Pasta, Shake",-,₹250 for two,https://www.zomato.com/mathura/the-down-town-cafe-and-restaurant-3-mathura-locality/info
+Mathura,Veer Chaap Express,"North Indian, Rolls",-,₹400 for two,https://www.zomato.com/mathura/veer-chaap-express-mathura-locality/info
+Mathura,Braj Bakes & Cakes,"Bakery, Fast Food",-,₹400 for two,https://www.zomato.com/mathura/braj-bakes-cakes-mathura-locality/info
+Mathura,NANDA’S CHHOLE BHATURE,N/A,-,₹300 for two,https://www.zomato.com/mathura/nandas-chhole-bhature-mathura-locality/info
+Mathura,Shri Ji Family Restaurant,"North Indian, Chinese, Pizza, Beverages",-,"₹1,000 for two",https://www.zomato.com/mathura/shri-ji-family-restaurant-1-mathura-locality/info
+Mathura,Pappu The Dhaba,N/A,-,₹300 for two,https://www.zomato.com/mathura/pappu-the-dhaba-mathura-locality/info
+Mathura,Oven 360 Degree,"Pizza, Fast Food, Beverages",-,₹350 for two,https://www.zomato.com/mathura/oven-360-degree-mathura-locality/info
+Mathura,Bansal Bakers,"Bakery, Fast Food",-,₹250 for two,https://www.zomato.com/mathura/bansal-bakers-mathura-locality/info
+Mathura,Babarchi By Heera,"North Indian, Chinese",-,"₹1,000 for two",https://www.zomato.com/mathura/babarchi-by-heera-mathura-locality/info
+Mathura,Chaat Chaupal,"Momos, Burger, Pizza, Fast Food, Shake",-,₹250 for two,https://www.zomato.com/mathura/chaat-chaupal-2-mathura-locality/info
+Mathura,Yadav Dal Wati Wala,"Street Food, Rajasthani",-,₹250 for two,https://www.zomato.com/mathura/yadav-dal-wati-wala-mathura-locality/info
+Mathura,Bacchu Dhaba,N/A,-,₹250 for two,https://www.zomato.com/mathura/bacchu-dhaba-mathura-locality/info
+Mathura,The Vibe Cafe & Restaurant,"Pizza, Sandwich, Wraps, Fast Food, North Indian, Chinese, Shake, Beverages",-,₹350 for two,https://www.zomato.com/mathura/the-vibe-cafe-restaurant-1-mathura-locality/info
+Mathura,Bhawna Restaurant,N/A,-,₹250 for two,https://www.zomato.com/mathura/bhawna-restaurant-mathura-locality/info
+Mathura,Food Court,N/A,-,₹200 for two,https://www.zomato.com/mathura/food-court-1-mathura-locality/info
+Mathura,Gokul Hotel And Family Restaurant,N/A,-,₹200 for two,https://www.zomato.com/mathura/gokul-hotel-and-family-restaurant-1-mathura-locality/info
+Mathura,Moon Light Cafe,"Burger, Pizza, Street Food, Fast Food, Chinese, Shake",-,₹300 for two,https://www.zomato.com/mathura/moon-light-cafe-1-mathura-locality/info
+Mathura,Do Bhai Pizza Wale,N/A,-,₹250 for two,https://www.zomato.com/mathura/do-bhai-pizza-wale-3-mathura-locality/info
+Mathura,The Hangout Cafe,"North Indian, Chinese, Fast Food, Pizza, Beverages",-,₹500 for two,https://www.zomato.com/mathura/the-hangout-cafe-mathura-locality/info
+Mathura,Agrawal Family Dhaba,N/A,-,₹400 for two,https://www.zomato.com/mathura/agrawal-family-dhaba-1-mathura-locality/info
+Mathura,Heera Crystal Inn,N/A,-,₹600 for two,https://www.zomato.com/mathura/heera-crystal-inn-4-mathura-locality/info
+Mathura,Hari Mohan Misthan Bhandar Hathras Wale Since 1978,"Street Food, Mithai",-,₹250 for two,https://www.zomato.com/mathura/hari-mohan-misthan-bhandar-hathras-wale-since-1978-mathura-locality/info
+Mathura,Hotel Goverdhan Palace And Restaurant,"North Indian, South Indian, Chinese",-,₹250 for two,https://www.zomato.com/mathura/hotel-goverdhan-palace-and-restaurant-mathura-locality/info
+Mathura,Golden Spoon Cafe & Restaurant,"North Indian, Pizza, Momos, Burger, Sandwich, Street Food, Shake, Beverages",-,₹400 for two,https://www.zomato.com/mathura/golden-spoon-cafe-restaurant-mathura-locality/info
+Mathura,Jai Gurudev Family Restaurant,"North Indian, South Indian, Chinese, Beverages",-,₹400 for two,https://www.zomato.com/mathura/jai-gurudev-family-restaurant-1-mathura-locality/info
+Mathura,Verma Patties And Food,"Fast Food, Street Food",-,₹300 for two,https://www.zomato.com/mathura/verma-patties-and-food-mathura-locality/info
+Mathura,Verma Patties & Food's,"Street Food, Sandwich, Pizza, Burger, Fast Food, Momos, Shake, Beverages",-,₹450 for two,https://www.zomato.com/mathura/verma-patties-foods-mathura-locality/info
+Mathura,The Pizza Point,"Pizza, Burger, Sandwich, Fast Food, Street Food, Shake",-,₹450 for two,https://www.zomato.com/mathura/the-pizza-point-2-mathura-locality/info
+Mathura,The Food Break,N/A,-,₹500 for two,https://www.zomato.com/mathura/the-food-break-mathura-locality/info
+Mathura,Anna South Indian Masala Dosa,N/A,-,₹200 for two,https://www.zomato.com/mathura/anna-south-indian-masala-dosa-mathura-locality/info
+Mathura,Babylon Restaurant,"North Indian, South Indian, Chinese, Beverages",-,"₹1,100 for two",https://www.zomato.com/mathura/babylon-restaurant-1-mathura-locality/info
+Mathura,Modern Lounge,"North Indian, Mughlai, Chinese",-,₹550 for two,https://www.zomato.com/mathura/modern-lounge-mathura-locality/info
+Mathura,Grape & Grill,"North Indian, Mughlai, Chinese",-,"₹1,000 for two",https://www.zomato.com/mathura/grape-grill-1-mathura-locality/info
+Mathura,Pavelian 85,"North Indian, Chinese, Bar Food, Continental, Beverages",-,"₹1,200 for two",https://www.zomato.com/mathura/pavelian-85-mathura-locality/info
+Mathura,Tandoori Zaika,"North Indian, Mughlai, Rolls",-,₹500 for two,https://www.zomato.com/mathura/tandoori-zaika-1-mathura-locality/info
+Mathura,Radha Rani Bhojnalay & Fast Food,"North Indian, Fast Food",-,₹300 for two,https://www.zomato.com/mathura/radha-rani-bhojnalay-fast-food-mathura-locality/info
+Mathura,Pahalwan Dhaba And Restaurant,N/A,-,₹400 for two,https://www.zomato.com/mathura/pahalwan-dhaba-and-restaurant-mathura-locality/info
+Mathura,Gorge Burger Centre,"Burger, Fast Food",-,₹200 for two,https://www.zomato.com/mathura/gorge-burger-centre-1-mathura-locality/info
+Mathura,Silver Oaks Inn,"North Indian, Chinese",-,₹500 for two,https://www.zomato.com/mathura/silver-oaks-inn-mathura-locality/info
+Mathura,Vrinda Sarovar,"North Indian, South Indian, Chinese, Salad, Beverages",-,"₹1,000 for two",https://www.zomato.com/mathura/vrinda-sarovar-1-mathura-locality/info
+Mathura,Twist Of Chatkara,"North Indian, South Indian, Chinese, Fast Food",-,₹200 for two,https://www.zomato.com/mathura/twist-of-chatkara-mathura-locality/info
+Mathura,Anna Ka Dukaan,"South Indian, Beverages",-,₹300 for two,https://www.zomato.com/mathura/anna-ka-dukaan-mathura-locality/info
+Mathura,Patties & Tea Corner Mba Wala,N/A,-,₹100 for two,https://www.zomato.com/mathura/patties-tea-corner-mba-wala-mathura-locality/info
+Mathura,Papa Da Pizza,N/A,-,₹300 for two,https://www.zomato.com/mathura/papa-da-pizza-2-mathura-locality/info
+Mathura,MK Maa Ki Rasoi,"North Indian, Chinese",-,₹300 for two,https://www.zomato.com/mathura/mk-maa-ki-rasoi-1-mathura-locality/info
+Mathura,American Cafe,"North Indian, Rolls, Pizza, Chinese, Burger, Sandwich, Fast Food, Shake",-,₹500 for two,https://www.zomato.com/mathura/american-cafe-mathura-locality/info
+Mathura,Kanchan Chat Palace And Confectioner,N/A,-,₹150 for two,https://www.zomato.com/mathura/kanchan-chat-palace-and-confectioner-mathura-locality/info
+Mathura,Maa Vaishnavi Food,"Chinese, South Indian, North Indian",-,₹350 for two,https://www.zomato.com/mathura/maa-vaishnavi-food-2-mathura-locality/info
+Mathura,Rajput Family Restaurant,N/A,N/A,₹350 for two,https://www.zomato.com/mathura/rajput-family-restaurant-mathura-locality/info
+Mathura,Hotel Gulmohar,"North Indian, Chinese, Salad, Fast Food, Beverages",-,"₹1,000 for two",https://www.zomato.com/mathura/hotel-gulmohar-2-mathura-locality/info
+Mathura,Kanha Ki Rasoi,N/A,-,₹200 for two,https://www.zomato.com/mathura/kanha-ki-rasoi-mathura-locality/info
+Mathura,Bhagwan Family Dhaba,"North Indian, Chinese",-,₹350 for two,https://www.zomato.com/mathura/bhagwan-family-dhaba-mathura-locality/info
+Mathura,Queen's Kitchen @ Mathura,"Fast Food, Chinese, South Indian, Momos",-,₹200 for two,https://www.zomato.com/mathura/queens-kitchen-@-mathura-mathura-locality/info
+Mathura,Miami Cafe,"North Indian, Chinese, Burger, Momos, Pizza, Fast Food, Shake, Beverages",-,₹350 for two,https://www.zomato.com/mathura/miami-cafe-mathura-locality/info
+Mathura,Neelkanth Vyanjan,N/A,-,₹250 for two,https://www.zomato.com/mathura/neelkanth-vyanjan-mathura-locality/info
+Mathura,Brijwasi Fast Food,"South Indian, Street Food, Fast Food",-,₹150 for two,https://www.zomato.com/mathura/brijwasi-fast-food-mathura-locality/info
+Mathura,Agrawals Restaurant & Banquets,"North Indian, Chinese",-,₹500 for two,https://www.zomato.com/mathura/agrawals-restaurant-banquets-mathura-locality/info
+Mathura,Hotel Radhika Silver & Resturant,"North Indian, Biryani",-,₹200 for two,https://www.zomato.com/mathura/hotel-radhika-silver-resturant-mathura-locality/info
+Mathura,Kullad Cafe,"Tea, Shake, Beverages, North Indian, Chinese, Pizza, Fast Food, Street Food",-,₹450 for two,https://www.zomato.com/mathura/kullad-cafe-1-mathura-locality/info
+Mathura,Baba Da Dhaba,N/A,-,₹300 for two,https://www.zomato.com/mathura/baba-da-dhaba-4-mathura-locality/info
+Mathura,Gobblers Rolls & Bowls,"North Indian, Chinese, Fast Food, Biryani, Rolls, Sandwich, Shake, Beverages",-,₹350 for two,https://www.zomato.com/mathura/gobblers-rolls-bowls-mathura-locality/info
+Mathura,The Love cafe,"Chinese, Fast Food, Street Food, Sandwich, Burger, Pizza, Momos, Beverages",-,₹200 for two,https://www.zomato.com/mathura/the-love-cafe-mathura-locality/info
+Mathura,Wah Chinese,N/A,-,₹200 for two,https://www.zomato.com/mathura/wah-chinese-mathura-locality/info
+Mathura,Da Pizza Hub,"Burger, Pizza, Fast Food, Pasta",-,₹250 for two,https://www.zomato.com/mathura/da-pizza-hub-3-mathura-locality/info
+Mathura,Hot Meal (Meal @50),N/A,-,₹200 for two,https://www.zomato.com/mathura/hot-meal-meal-@50-mathura-locality/info
+Mathura,Pizza Harrison,"Pizza, Burger, Pasta",N/A,₹450 for two,https://www.zomato.com/mathura/pizza-harrison-2-mathura-locality/info
+Mathura,The Bridge,"North Indian, Chinese, Fast Food",-,₹500 for two,https://www.zomato.com/mathura/the-bridge-2-mathura-locality/info
+Mathura,Murari Sweets And Namkeen,"Street Food, Mithai",-,₹150 for two,https://www.zomato.com/mathura/murari-sweets-and-namkeen-mathura-locality/info
+Mathura,Chatore Fast Food & Pizza Point,"Street Food, Fast Food, North Indian, Chinese, Beverages, Rolls, Biryani",-,₹300 for two,https://www.zomato.com/mathura/chatore-fast-food-pizza-point-1-mathura-locality/info
+Mathura,Deepak Swadist Chicken And Fish Rasoi,"North Indian, Seafood, Mughlai",-,₹350 for two,https://www.zomato.com/mathura/deepak-swadist-chicken-and-fish-rasoi-mathura-locality/info
+Mathura,Wow! CBSE The Cafe,"North Indian, Chinese, Momos, Fast Food, Street Food, Shake",-,₹350 for two,https://www.zomato.com/mathura/wow-cbse-the-cafe-mathura-locality/info
+Mathura,Banjara Hills,"Pizza, Sandwich, Fast Food, Bakery, Street Food",-,₹400 for two,https://www.zomato.com/mathura/banjara-hills-mathura-locality/info
+Mathura,Bhai Ji Bakers,N/A,-,₹700 for two,https://www.zomato.com/mathura/bhai-ji-bakers-3-mathura-locality/info
+Mathura,Swarn Mahal Resturant & Banquet,N/A,N/A,"₹1,000 for two",https://www.zomato.com/mathura/swarn-mahal-resturant-banquet-mathura-locality/info
+Mathura,Radhey Radhey Mithai Wale,"Mithai, Bakery",-,₹350 for two,https://www.zomato.com/mathura/radhey-radhey-mithai-wale-mathura-locality/info
+Mathura,Agrawals Restaurant & Banquet,N/A,-,₹400 for two,https://www.zomato.com/mathura/agrawals-restaurant-banquet-1-mathura-locality/info
+Mathura,Indian Falooda Center,"Ice Cream, Shake, Pizza, Pasta, Fast Food",-,₹300 for two,https://www.zomato.com/mathura/indian-falooda-center-mathura-locality/info
+Mathura,Khana Khazana Ka Magic,N/A,-,₹300 for two,https://www.zomato.com/mathura/khana-khazana-ka-magic-mathura-locality/info
+Mathura,Juicy Restaurant,N/A,-,₹450 for two,https://www.zomato.com/mathura/juicy-restaurant-2-mathura-locality/info
+Mathura,Ma Ki Thali,N/A,-,₹300 for two,https://www.zomato.com/mathura/ma-ki-thali-mathura-locality/info
+Mathura,The Burger Company,"Burger, Fast Food, Pizza, Momos, Beverages, Sandwich, Waffle, Shake",-,₹400 for two,https://www.zomato.com/mathura/the-burger-company-1-mathura-locality/info
+Mathura,Prasadam Restaurant,"North Indian, South Indian",N/A,₹500 for two,https://www.zomato.com/mathura/prasadam-restaurant-1-mathura-locality/info
+Mathura,Saini Dhaba And Tea Stall,"Tea, North Indian, Street Food",-,₹500 for two,https://www.zomato.com/mathura/saini-dhaba-and-tea-stall-mathura-locality/info
+Mathura,Shri Radhika Sweets,"Mithai, Street Food",-,₹200 for two,https://www.zomato.com/mathura/shri-radhika-sweets-mathura-locality/info
+Mathura,Jeetu Bhai Paranthe Wale,N/A,-,₹200 for two,https://www.zomato.com/mathura/jeetu-bhai-paranthe-wale-mathura-locality/info
+Mathura,Ajay Hotel,"North Indian, Street Food, Chinese, Desserts",-,₹350 for two,https://www.zomato.com/mathura/ajay-hotel-mathura-locality/info
+Mathura,Hot Cross Bun,"Chinese, Fast Food, Street Food",-,₹300 for two,https://www.zomato.com/mathura/hot-cross-bun-mathura-locality/info
+Mathura,Momo King,"North Indian, Chinese",-,₹250 for two,https://www.zomato.com/mathura/momo-king-mathura-locality/info
+Mathura,Momo Lover & Home Bakers,N/A,-,₹550 for two,https://www.zomato.com/mathura/momo-lover-home-bakers-mathura-locality/info
+Mathura,Guru Dev Family Restaurant,N/A,-,₹300 for two,https://www.zomato.com/mathura/guru-dev-family-restaurant-mathura-locality/info
+Mathura,Shyam Ji Malai Chaap & Fast Food Center,"North Indian, Fast Food, South Indian, Chinese, Momos",-,₹350 for two,https://www.zomato.com/mathura/shyam-ji-malai-chaap-fast-food-center-mathura-locality/info
+Mathura,King & Queen Cafe Restro,"Pizza, Burger, Fast Food, Street Food, Shake, Beverages, Chinese, North Indian",-,₹400 for two,https://www.zomato.com/mathura/king-queen-cafe-restro-mathura-locality/info
+Mathura,Hotel Shri Radha Rani Family Restaurent,"North Indian, Biryani, Chinese, Street Food",-,₹300 for two,https://www.zomato.com/mathura/hotel-shri-radha-rani-family-restaurent-mathura-locality/info
+Mathura,Da Panjabi Cafe,"North Indian, Chinese, Wraps, Fast Food, Street Food, Momos, Shake, Beverages",-,₹450 for two,https://www.zomato.com/mathura/da-panjabi-cafe-mathura-locality/info
+Mathura,The Friends Zone Pizza,"Pizza, Fast Food",-,₹300 for two,https://www.zomato.com/mathura/the-friends-zone-pizza-mathura-locality/info
+Mathura,Snacks Bar,"Street Food, Fast Food, Pizza, Burger",-,₹300 for two,https://www.zomato.com/mathura/snacks-bar-mathura-locality/info
+Mathura,Shri Krishan Balram Restaurant,"North Indian, South Indian, Chinese, Street Food",-,₹250 for two,https://www.zomato.com/mathura/shri-krishan-balram-restaurant-mathura-locality/info
+Mathura,Champaran Ahuna Family Restuarant,"North Indian, Biryani",-,₹350 for two,https://www.zomato.com/mathura/champaran-ahuna-family-restuarant-mathura-locality/info
+Mathura,Umang Bhojnalay,"North Indian, Shake",-,₹350 for two,https://www.zomato.com/mathura/umang-bhojnalay-mathura-locality/info
+Mathura,Burger House,"Burger, Pizza, Sandwich, Fast Food, Chinese, Street Food, Shake, Beverages",-,₹300 for two,https://www.zomato.com/mathura/burger-house-1-mathura-locality/info
+Mathura,Albaik,"Burger, Fast Food, Biryani",-,₹450 for two,https://www.zomato.com/mathura/albaik-mathura-locality/info
+Mathura,Braj Food,"Chinese, Street Food",-,₹200 for two,https://www.zomato.com/mathura/braj-food-mathura-locality/info
+Mathura,Radha Rani Family Restaurant,N/A,-,₹300 for two,https://www.zomato.com/mathura/radha-rani-family-restaurant-1-mathura-locality/info
+Mathura,Ayush Fast Food,"Fast Food, Chinese, Street Food",-,₹250 for two,https://www.zomato.com/mathura/ayush-fast-food-mathura-locality/info
+Mathura,UP 85 Food Cafe,"Sandwich, Fast Food, Beverages",-,₹300 for two,https://www.zomato.com/mathura/up-85-food-cafe-mathura-locality/info
+Mathura,Shrijee Kachori Corner,N/A,-,₹100 for two,https://www.zomato.com/mathura/shrijee-kachori-corner-mathura-locality/info
+Mathura,Radha Rani Batata Wada Mumbai Ka Wada Pav Center,"Street Food, Mithai",-,₹100 for two,https://www.zomato.com/mathura/radha-rani-batata-wada-mumbai-ka-wada-pav-center-mathura-locality/info
+Mathura,Jai Bhole Fast Food Corner,"Fast Food, Chinese, Street Food, Beverages",-,₹100 for two,https://www.zomato.com/mathura/jai-bhole-fast-food-corner-12-mathura-locality/info
+Mathura,Rajwada Restaurant,"North Indian, Fast Food",-,₹100 for two,https://www.zomato.com/mathura/rajwada-restaurant-mathura-locality/info
+Mathura,Hotel Silver Star,N/A,-,"₹1,100 for two",https://www.zomato.com/mathura/hotel-silver-star-mathura-locality/info
+Mathura,The Live Pizza,"Pizza, Fast Food, Burger",-,₹300 for two,https://www.zomato.com/mathura/the-live-pizza-mathura-locality/info
+Mathura,Healthy Meal,"Cafe, Shake",-,₹200 for two,https://www.zomato.com/mathura/healthy-meal-mathura-locality/info
+Mathura,New Punjabi Rasoi Chicken Corner,"North Indian, Rolls, Mughlai, Chinese",-,₹450 for two,https://www.zomato.com/mathura/new-punjabi-rasoi-chicken-corner-1-mathura-locality/info
+Mathura,Shree Ji Hotel & Bhojnalaya,"North Indian, Chinese, Fast Food, Street Food, Beverages",-,₹400 for two,https://www.zomato.com/mathura/shree-ji-hotel-bhojnalaya-mathura-locality/info
+Mathura,The Aakash Bakers,"Bakery, South Indian, Chinese, Fast Food, Street Food, Desserts, Shake, Beverages",-,₹300 for two,https://www.zomato.com/mathura/the-aakash-bakers-mathura-locality/info
+Mathura,Shri Khatu Shyam Ji Pizza Point,"Pizza, Italian, Fast Food, Street Food",-,₹300 for two,https://www.zomato.com/mathura/shri-khatu-shyam-ji-pizza-point-mathura-locality/info
+Mathura,Sonu Dhaba,N/A,-,₹300 for two,https://www.zomato.com/mathura/sonu-dhaba-mathura-locality/info
+Mathura,Preeti Bhoj Restaurant And Rooms,"North Indian, Street Food, Beverages",-,₹400 for two,https://www.zomato.com/mathura/preeti-bhoj-restaurant-and-rooms-mathura-locality/info
+Mathura,Flavours Restaurant,"North Indian, South Indian, Chinese, Sandwich, Burger, Pizza, Fast Food, Shake",-,"₹1,000 for two",https://www.zomato.com/mathura/flavours-restaurant-mathura-locality/info
+Mathura,Braj Rasoi,"North Indian, Chinese, Rolls",-,₹300 for two,https://www.zomato.com/mathura/braj-rasoi-mathura-locality/info
+Mathura,Shri Radha Krishna Family Dhaba,"North Indian, Street Food",-,₹400 for two,https://www.zomato.com/mathura/shri-radha-krishna-family-dhaba-2-mathura-locality/info
+Mathura,Baba Dha Dhaba,N/A,N/A,₹300 for two,https://www.zomato.com/mathura/baba-dha-dhaba-mathura-locality/info
+Mathura,Punjab Grill,N/A,-,₹450 for two,https://www.zomato.com/mathura/punjab-grill-1-mathura-locality/info
+Mathura,The Meggi Junction,"Fast Food, Shake",-,₹100 for two,https://www.zomato.com/mathura/the-meggi-junction-mathura-locality/info
+Mathura,Pahalwan Kachori Wale,"Street Food, Desserts",-,₹100 for two,https://www.zomato.com/mathura/pahalwan-kachori-wale-mathura-locality/info
+Mathura,Shree Ji Fast Food Dhaba,"North Indian, Chinese, Fast Food",-,₹350 for two,https://www.zomato.com/mathura/shree-ji-fast-food-dhaba-mathura-locality/info
+Mathura,Kanahiya Agrawal Family Bhojnalaya,N/A,-,₹450 for two,https://www.zomato.com/mathura/kanahiya-agrawal-family-bhojnalaya-mathura-locality/info
+Mathura,Delhi 06,"Chinese, North Indian, Rolls",-,₹300 for two,https://www.zomato.com/mathura/delhi-06-2-mathura-locality/info
+Mathura,Laziz Food Holic,"Burger, Pizza, Fast Food, Beverages",-,₹200 for two,https://www.zomato.com/mathura/laziz-food-holic-mathura-locality/info
+Mathura,7 Flowers Garden Veg Restaurant,"Chinese, North Indian, South Indian, Fast Food",-,₹350 for two,https://www.zomato.com/mathura/7-flowers-garden-veg-restaurant-mathura-locality/info
+Mathura,Shri Shanidev Fast Food,N/A,-,₹200 for two,https://www.zomato.com/mathura/shri-shanidev-fast-food-mathura-locality/info
+Mathura,Shri Radha Shyam Fast Food And Tiffin Centre,N/A,-,₹200 for two,https://www.zomato.com/mathura/shri-radha-shyam-fast-food-and-tiffin-centre-mathura-locality/info
+Mathura,Maharana Restaurant,"Street Food, North Indian, Beverages",-,₹300 for two,https://www.zomato.com/mathura/maharana-restaurant-mathura-locality/info
+Mathura,Yadav Bhojnalaya,N/A,N/A,₹300 for two,https://www.zomato.com/mathura/yadav-bhojnalaya-1-mathura-locality/info
+Mathura,Duke's Delight Restaurant Mathura,"North Indian, Chinese, Beverages",-,"₹1,000 for two",https://www.zomato.com/mathura/dukes-delight-restaurant-mathura-mathura-locality/info
+Mathura,Agrawal Baker's,"Burger, Pizza, Sandwich, Street Food, Desserts",-,₹200 for two,https://www.zomato.com/mathura/agrawal-bakers-1-mathura-locality/info
+Mathura,Ballentine's Family Restro & Lounge,"North Indian, Chinese, Beverages, Shake",-,₹950 for two,https://www.zomato.com/mathura/ballentines-family-restro-lounge-mathura-locality/info
+Mathura,Brij Chai Wala,"Tea, Pizza, Burger, Momos, Pasta, Wraps, Fast Food, Street Food",-,₹300 for two,https://www.zomato.com/mathura/brij-chai-wala-mathura-locality/info
+Mathura,Wow Vada Pav,"Street Food, Burger, Sandwich, Wraps",-,₹200 for two,https://www.zomato.com/mathura/wow-vada-pav-mathura-locality/info
+Mathura,Yug Kulfi Corner,"Ice Cream, Desserts",-,₹200 for two,https://www.zomato.com/mathura/yug-kulfi-corner-mathura-locality/info
+Mathura,K G F Restaurent,N/A,-,₹300 for two,https://www.zomato.com/mathura/k-g-f-restaurent-1-mathura-locality/info
+Mathura,Dosa Mart,"South Indian, Chinese, Fast Food",-,₹150 for two,https://www.zomato.com/mathura/dosa-mart-1-mathura-locality/info
+Mathura,Ballentine's Restro & Lounge,"North Indian, Chinese, Fast Food, Beverages",-,"₹1,000 for two",https://www.zomato.com/mathura/ballentines-restro-lounge-mathura-locality/info
+Mathura,Pahalvan Dhaba And Chicklet Chicken Corner,"North Indian, Chinese",-,₹500 for two,https://www.zomato.com/mathura/pahalvan-dhaba-and-chicklet-chicken-corner-mathura-locality/info
+Mathura,Shri Radha Madhav Bhojnalaya,"North Indian, Salad, Desserts, Beverages",-,₹350 for two,https://www.zomato.com/mathura/shri-radha-madhav-bhojnalaya-mathura-locality/info
+Mathura,Upadhyay Ji Dhaba,N/A,-,₹300 for two,https://www.zomato.com/mathura/upadhyay-ji-dhaba-mathura-locality/info
+Mathura,4Pm By Shriji's,"North Indian, South Indian, Chinese, Rolls, Wraps, Fast Food, Momos, Beverages",-,₹450 for two,https://www.zomato.com/mathura/4pm-by-shrijis-3-mathura-locality/info
+Mathura,Cafe Love Bite,"Burger, Sandwich, Street Food, Salad, Wraps, Healthy Food, Beverages, Shake",-,₹400 for two,https://www.zomato.com/mathura/cafe-love-bite-mathura-locality/info
+Mathura,Love Wings,"Chinese, North Indian, Shake",-,₹400 for two,https://www.zomato.com/mathura/love-wings-1-mathura-locality/info
+Mathura,B Tech Pani Puri And Snacks,N/A,-,₹150 for two,https://www.zomato.com/mathura/b-tech-pani-puri-and-snacks-mathura-locality/info
+Mathura,Vishnu Kachori Wala,N/A,-,₹100 for two,https://www.zomato.com/mathura/vishnu-kachori-wala-1-mathura-locality/info
+Mathura,Shankar Fast Food & Services,"Chinese, Burger, Sandwich, Rolls, Pizza, Street Food",-,₹300 for two,https://www.zomato.com/mathura/shankar-fast-food-services-mathura-locality/info
+Mathura,Jain Restaurant,"North Indian, South Indian",-,₹300 for two,https://www.zomato.com/mathura/jain-restaurant-mathura-locality/info
+Mathura,Upbake,"Fast Food, Pizza, Burger, Sandwich, Street Food",-,₹300 for two,https://www.zomato.com/mathura/upbake-mathura-locality/info
+Mathura,Al Baik.com,"Burger, Fast Food",-,₹350 for two,https://www.zomato.com/mathura/al-baik-com-mathura-locality/info
+Mathura,Shri Radha Rani Family Restaurant,"North Indian, Chinese, Biryani, Kebab, Street Food, Beverages",-,₹450 for two,https://www.zomato.com/mathura/shri-radha-rani-family-restaurant-mathura-locality/info
+Mathura,Pizza Delight Cafe,"Pizza, Fast Food, Beverages",-,₹300 for two,https://www.zomato.com/mathura/pizza-delight-cafe-2-mathura-locality/info
+Mathura,Yaduvanshi Family Restaurant,"North Indian, Chinese, Street Food, Beverages",-,₹300 for two,https://www.zomato.com/mathura/yaduvanshi-family-restaurant-mathura-locality/info
+Mathura,Ebay Pizza,"Fast Food, Pizza",-,₹500 for two,https://www.zomato.com/mathura/ebay-pizza-4-mathura-locality/info
+Mathura,Dayal Das Foods,"North Indian, Street Food",-,₹150 for two,https://www.zomato.com/mathura/dayal-das-foods-mathura-locality/info
+Mathura,The Tandoori Dhaba,N/A,-,₹200 for two,https://www.zomato.com/mathura/the-tandoori-dhaba-3-mathura-locality/info
+Mathura,Urban 85 Cafe & Restro,"Pizza, Fast Food, Chinese, Momos, Shake, Beverages",-,₹300 for two,https://www.zomato.com/mathura/urban-85-cafe-restro-mathura-locality/info
+Mathura,The Club House,"Pizza, Burger, Sandwich, Fast Food, Street Food, Momos, Desserts, Beverages",-,₹200 for two,https://www.zomato.com/mathura/the-club-house-mathura-locality/info
+Agra,The Salt Cafe Kitchen & Bar,N/A,4.9,N/A,https://www.zomato.com/agra/the-salt-cafe-kitchen-bar-tajganj/info
+Agra,Unplugged Courtyard,N/A,4.3,N/A,https://www.zomato.com/agra/unplugged-courtyard-tajganj/info
+Agra,Spiced Brew,N/A,4.5,N/A,https://www.zomato.com/agra/spiced-brew-khandari/info
+Agra,Punjabi By Nature,N/A,4.2,N/A,https://www.zomato.com/agra/punjabi-by-nature-tajganj/info
+Agra,Molecule Air Bar,N/A,4.5,N/A,https://www.zomato.com/agra/molecule-air-bar-tajganj/info
+Agra,Palm Burj,N/A,4.5,N/A,https://www.zomato.com/agra/palm-burj-rakabganj/info
+Agra,Hichkee,N/A,4.2,N/A,https://www.zomato.com/agra/hichkee-civil-lines/info
+Agra,Beep,N/A,4.2,N/A,https://www.zomato.com/agra/beep-rakabganj/info
+Agra,My Bar Headquarters,N/A,4.4,N/A,https://www.zomato.com/agra/my-bar-headquarters-khandari/info
+Bangalore,Atlantis,"North Indian, Asian",4.1,"₹2,500 for two",https://www.zomato.com/bangalore/atlantis-hsr-bangalore/info
+Bangalore,Jamavar - The Leela Palace,"North Indian, South Indian",4.3,"₹5,000 for two",https://www.zomato.com/bangalore/jamavar-the-leela-palace-airport-road/info
+Bangalore,Sozo Skyline,"Asian, Chinese, Thai, Sushi",4.1,"₹1,800 for two",https://www.zomato.com/bangalore/sozo-skyline-lavelle-road-bangalore/info
+Bangalore,Skygarden Bar & Kitchen,"Asian, Bar Food",4.4,"₹1,500 for two",https://www.zomato.com/bangalore/skygarden-bar-kitchen-koramangala-5th-block-bangalore/info
+Bangalore,Muro,"Thai, Cantonese, Salad, Desserts",4.2,"₹2,800 for two",https://www.zomato.com/bangalore/muro-church-street-bangalore/info
+Bangalore,Feast - Sheraton Grand Bangalore Hotel at Brigade Gateway,"North Indian, Continental, Fast Food, Asian, Beverages",4.3,"₹3,500 for two",https://www.zomato.com/bangalore/feast-sheraton-grand-bangalore-hotel-at-brigade-gateway-malleshwaram-bangalore/info
+Bangalore,Smoor,"Desserts, Bakery, Cafe, Beverages, Ice Cream, Asian, Pasta",4.4,"₹1,000 for two",https://www.zomato.com/bangalore/smoor-lavelle-road-bangalore/info
+Bangalore,Maddy's Resto Pub,"North Indian, Continental, Mughlai, Bar Food",4.1,"₹1,000 for two",https://www.zomato.com/bangalore/maddys-resto-pub-koramangala-8th-block-bangalore/info
+Bangalore,Botany Brew and Kitchen,"North Indian, Chinese, Sushi, Continental, Asian, Thai",4.2,"₹2,700 for two",https://www.zomato.com/bangalore/botany-brew-and-kitchen-lavelle-road-bangalore/info
+Bangalore,Pangeo,"Sushi, Continental, Mediterranean, Pizza, Pasta, North Indian, Desserts, Asian",4.3,"₹3,500 for two",https://www.zomato.com/bangalore/pangeo-brigade-road-bangalore/info
+Bangalore,Glass – Kitchen & Bar,"Modern Indian, North Indian, Continental, Biryani, Bar Food, Seafood, Desserts, Beverages",4.5,"₹2,800 for two",https://www.zomato.com/bangalore/glass-kitchen-bar-race-course-road-bangalore/info
+Bangalore,Kling Brewery,"Continental, European, Asian, Chinese, North Indian, South Indian, Seafood",4.3,"₹1,500 for two",https://www.zomato.com/bangalore/kling-brewery-church-street-bangalore/info
+Bangalore,High Ultra Lounge - Sheraton Grand Bangalore Hotel,"North Indian, Continental, Finger Food, Desserts",4.0,"₹3,600 for two",https://www.zomato.com/bangalore/high-ultra-lounge-sheraton-grand-bangalore-hotel-malleshwaram-bangalore/info
+Bangalore,The Black Pearl,"Continental, Salad, North Indian, Seafood, Fast Food, Street Food, Desserts",4.2,"₹1,500 for two",https://www.zomato.com/bangalore/the-black-pearl-1-rajajinagar-bangalore/info
+Bangalore,Flo,"Asian, North Indian, Continental, Finger Food, Sushi, Desserts, Beverages, Thai",4.2,"₹3,000 for two",https://www.zomato.com/bangalore/flo-church-street-bangalore/info
+Bangalore,Ironhill Kanakapura road,"North Indian, Pizza, Fast Food",4.5,"₹1,500 for two",https://www.zomato.com/bangalore/ironhill-kanakapura-road-kumaraswamy-layout-bangalore/info
+Bangalore,Nusa,"North Indian, Asian, Continental, European, South Indian, Indonesian, Bar Food, Finger Food",4.3,"₹1,500 for two",https://www.zomato.com/bangalore/nusa-varthur-main-road-whitefield-bangalore/info
+Bangalore,Maya,"Asian, North Indian, Continental, Pizza, Pasta, Beverages, Juices",4.4,"₹1,500 for two",https://www.zomato.com/bangalore/maya-1-jayanagar-bangalore/info
+Bangalore,Ironhill Bengaluru,"North Indian, Continental, Asian, Pizza, Fast Food, Biryani, Beverages, Desserts",4.5,"₹2,000 for two",https://www.zomato.com/bangalore/ironhill-bengaluru-marathahalli-bangalore/info
+Bangalore,Jamming Goat 3.0,"South Indian, Asian, Thai, Continental, North Indian",4.4,"₹1,500 for two",https://www.zomato.com/bangalore/jamming-goat-3-0-indiranagar-bangalore/info
+Bangalore,Oia,"Continental, Asian, Seafood, Salad, Pizza, North Indian, Desserts",4.2,"₹2,500 for two",https://www.zomato.com/bangalore/oia-3-hennur-bangalore/info
+Bangalore,Cocobolo,"Bar Food, North Indian, Continental, Italian, Chinese, BBQ, Desserts, Beverages",4.3,"₹1,000 for two",https://www.zomato.com/bangalore/cocobolo-new-bel-road-bangalore/info
+Bangalore,BLR Brewing Co.,"Continental, North Indian, Asian, Chinese, Pizza",4.4,"₹1,600 for two",https://www.zomato.com/bangalore/blr-brewing-co-1-whitefield-bangalore/info
+Bangalore,Babylonia - Global Food & Cocktails,"Continental, North Indian, Asian, Italian, Mughlai, Mediterranean, Bar Food, Desserts",4.3,"₹1,500 for two",https://www.zomato.com/bangalore/babylonia-global-food-cocktails-koramangala-7th-block-bangalore/info
+Bangalore,Magic Mocktails Cafe,"Beverages, Pizza, Burger, Sandwich, Fast Food, Chinese, Street Food, Shake",3.9,₹200 for two,https://www.zomato.com/bangalore/magic-mocktails-cafe-2-chanapatna-bangalore/info
+Bangalore,Vanamo,"Cafe, Continental, Coffee, International",N/A,"₹2,000 for two",https://www.zomato.com/bangalore/vanamo-indiranagar-bangalore/info
+Bangalore,Stories Bar & Kitchen,"Bar Food, Chinese, North Indian, Italian, Pizza, Seafood, Desserts",4.3,"₹1,400 for two",https://www.zomato.com/bangalore/stories-bar-kitchen-rajajinagar-bangalore/info
+Bangalore,SkyDeck By Sherlock's,"Continental, Chinese, Finger Food, North Indian, Fast Food, Beverages, Desserts",4.1,"₹1,800 for two",https://www.zomato.com/bangalore/skydeck-by-sherlocks-mg-road-bangalore/info
+Bangalore,Roxie,"Continental, Asian, North Indian, European, American, Italian, Pizza, Beverages",4.6,"₹2,600 for two",https://www.zomato.com/bangalore/roxie-sarjapur-road-bangalore/info
+Bangalore,Mykos Craft Kitchen & Bar,"Continental, Italian, Chinese, Mediterranean, North Indian, South American, Sushi",4.3,"₹1,500 for two",https://www.zomato.com/bangalore/mykos-craft-kitchen-bar-bannerghatta-road-bangalore/info
+Bangalore,Shift Lounge & Bar,"Continental, Bar Food, North Indian, Alcoholic Beverages, Chinese, Mughlai, Desserts, Beverages",4.3,"₹1,200 for two",https://www.zomato.com/bangalore/shift-lounge-bar-bommanahalli-bangalore/info
+Bangalore,Secret Story,"Continental, Asian, North Indian, Fast Food, Desserts, Beverages, Vietnamese, Italian",3.9,"₹1,500 for two",https://www.zomato.com/bangalore/secret-story-indiranagar-bangalore/info
+Bangalore,Byg Brewski Brewing Company,"Continental, Asian, Pasta, Pizza, Burger, Fast Food, Desserts",4.4,"₹1,500 for two",https://www.zomato.com/bangalore/byg-brewski-brewing-company-hennur-bangalore/info
+Bangalore,Rox,"Continental, North Indian, Italian",4.2,"₹1,000 for two",https://www.zomato.com/bangalore/rox-new-bel-road-bangalore/info
+Bangalore,Macaw By Stories,"South Indian, North Indian, Chinese, Pasta, Pizza, Fast Food, Salad, Desserts",4.4,"₹1,800 for two",https://www.zomato.com/bangalore/macaw-by-stories-bommanahalli-bangalore/info
+Bangalore,Citrus - The Leela Palace,"North Indian, Continental, Asian, Desserts",4.0,"₹4,700 for two",https://www.zomato.com/bangalore/citrus-the-leela-palace-airport-road/info
+Bangalore,The Reservoire,"North Indian, Biryani, Asian, Italian, Continental, Bar Food, Desserts, Beverages",4.4,"₹1,600 for two",https://www.zomato.com/bangalore/the-reservoire-koramangala-5th-block/info
+Bangalore,Kopitiam Lah,"Malaysian, Asian, Beverages, Desserts, Continental",3.6,"₹2,000 for two",https://www.zomato.com/bangalore/kopitiam-lah-indiranagar-bangalore/info
+Bangalore,Brooks And Bonds Brewery,"Continental, American, North Indian, Italian, Pasta, Beverages, Desserts, Pizza",4.1,"₹1,600 for two",https://www.zomato.com/bangalore/brooks-and-bonds-brewery-koramangala-5th-block-bangalore/info
+Bangalore,Minsk,"Continental, Asian, North Indian, South Indian, Bar Food, European",4.2,"₹1,400 for two",https://www.zomato.com/bangalore/minsk-btm-bangalore/info
+Bangalore,Biergarten,"Continental, European, BBQ, Chinese, Asian, Beverages",4.6,"₹2,500 for two",https://www.zomato.com/bangalore/biergarten-whitefield/info
+Bangalore,Nazaara - Courtyard By Marriott,"North Indian, Mughlai, Biryani",4.2,"₹3,000 for two",https://www.zomato.com/bangalore/nazaara-courtyard-by-marriott-hebbal-bangalore/info
+Bangalore,Helen's Place,"European, Asian, Modern Indian, Italian, Portuguese, Pizza, Chinese, North Indian",4.0,"₹1,500 for two",https://www.zomato.com/bangalore/helens-place-1-marathahalli-bangalore/info
+Bangalore,Jollygunj,"North Indian, Bar Food, Alcoholic Beverages, Biryani, Kebab, Finger Food, Desserts, Street Food",N/A,"₹1,000 for two",https://www.zomato.com/bangalore/jollygunj-jp-nagar-bangalore/info
+Bangalore,The Scene - Craft Kitchen & Bar,"North Indian, Continental, Asian, Desserts, Beverages",4.3,"₹1,500 for two",https://www.zomato.com/bangalore/the-scene-craft-kitchen-bar-jp-nagar-bangalore/info
+Bangalore,Gilly's Super Bar,"Continental, North Indian, Asian, Pizza, Oriental, Italian, Bar Food",4.2,"₹1,500 for two",https://www.zomato.com/bangalore/gillys-super-bar-st-marks-road-bangalore/info
+Bangalore,Mannheim Craft Brewery,"North Indian, Asian, American, Desserts, BBQ",4.5,"₹1,800 for two",https://www.zomato.com/bangalore/mannheim-craft-brewery-whitefield-bangalore/info
+Bangalore,Magique,"Asian, Modern Indian, Continental, Italian, North Indian, Sushi, Desserts, Beverages",4.0,"₹1,700 for two",https://www.zomato.com/bangalore/magique-koramangala-6th-block-bangalore/info
+Bangalore,Daddy,"Continental, North Indian, Asian, Italian, Chinese, European, Bar Food, Beverages",4.4,"₹1,700 for two",https://www.zomato.com/bangalore/daddy-indiranagar-bangalore/info
+Bangalore,ICB Indian Craft Brewery,"North Indian, Asian, Continental, American, Chinese",4.5,"₹2,000 for two",https://www.zomato.com/bangalore/icb-indian-craft-brewery-nagawara-bangalore/info
+Bangalore,The Bier Library,"North Indian, Pizza, European, American, Bar Food, Oriental, Desserts, BBQ",4.5,"₹1,800 for two",https://www.zomato.com/bangalore/the-bier-library-koramangala-6th-block-bangalore/info
+Bangalore,Hard Rock Cafe,"American, Continental, Italian, Wraps, Burger, Desserts, Fast Food, Beverages",4.6,"₹2,500 for two",https://www.zomato.com/bangalore/hard-rock-cafe-st-marks-road/info
+Bangalore,Red Rhino,"Continental, North Indian, Asian, Oriental, Mediterranean, Mangalorean, Beverages, Desserts",4.5,"₹1,700 for two",https://www.zomato.com/bangalore/red-rhino-whitefield-bangalore/info
+Bangalore,Idylll - Indian Plates & Cocktails,"North Indian, Modern Indian, South Indian, Seafood, Kebab, Alcoholic Beverages, Healthy Food, Desserts",4.5,"₹1,800 for two",https://www.zomato.com/bangalore/idylll-indian-plates-cocktails-indiranagar-bangalore/info
+Bangalore,Orah Brew Garden,"Asian, Continental, Desserts, European, Modern Indian",4.4,"₹1,500 for two",https://www.zomato.com/bangalore/orah-brew-garden-yelahanka-bangalore/info
+Bangalore,Horizon,"Chinese, Japanese, Asian, Salad, Thai, Desserts, Beverages",4.4,"₹3,000 for two",https://www.zomato.com/bangalore/horizon-1-malleshwaram-bangalore/info
+Bangalore,Oyster Bar & Kitchen,"North Indian, Chinese, Continental, Beverages, Bar Food, Desserts, Asian, Pizza",4.5,"₹1,600 for two",https://www.zomato.com/bangalore/oyster-bar-kitchen-hsr-bangalore/info
+Bangalore,"Stories 2.0, HSR","North Indian, Continental, Asian, American, Bar Food",4.4,"₹1,000 for two",https://www.zomato.com/bangalore/stories-2-0-hsr-2-hsr-bangalore/info
+Bangalore,Los Cavos,"Peruvian, Desserts, Alcoholic Beverages, Beverages",4.3,"₹2,000 for two",https://www.zomato.com/bangalore/los-cavos-indiranagar-bangalore/info
+Bangalore,Escape by Brewklyn - Brewery & Kitchen,"Continental, Asian, North Indian, Pizza, Burger",4.3,"₹1,800 for two",https://www.zomato.com/bangalore/escape-by-brewklyn-brewery-kitchen-nagawara-bangalore/info
+Bangalore,Big Pitcher,"North Indian, Continental, Mughlai, Chinese, Italian, Biryani, Desserts, Beverages",4.4,"₹1,800 for two",https://www.zomato.com/bangalore/big-pitcher-sarjapur-road-bangalore/info
+Bangalore,Boho,"Continental, Asian, American, Mexican, Beverages, Desserts, Korean, Italian",4.1,₹550 for two,https://www.zomato.com/bangalore/boho-koramangala-5th-block/info
+Bangalore,Fenny's Lounge And Kitchen,"Mediterranean, Continental, Italian, Desserts, Beverages",4.5,"₹1,900 for two",https://www.zomato.com/bangalore/fennys-lounge-and-kitchen-koramangala-7th-block/info
+Bangalore,Barbecue By Punjab Grill,"BBQ, Mughlai, North Indian, Salad, Desserts",4.2,"₹1,600 for two",https://www.zomato.com/bangalore/barbecue-by-punjab-grill-malleshwaram-bangalore/info
+Bangalore,Be Luru - Craft Kitchen & Bar,"South Indian, Seafood, Kebab",4.4,"₹1,000 for two",https://www.zomato.com/bangalore/be-luru-craft-kitchen-bar-sankey-road-bangalore/info
+Bangalore,Indigo XP,"North Indian, Continental, Chinese, Italian, Oriental, Thai, Biryani",4.1,"₹2,000 for two",https://www.zomato.com/bangalore/indigo-xp-koramangala-5th-block/info
+Bangalore,Fox In The Field,"Modern Indian, Continental, North Indian, Pizza, American, Italian, Desserts, Beverages",4.3,"₹1,500 for two",https://www.zomato.com/bangalore/fox-in-the-field-whitefield-bangalore/info
+Bangalore,Punjab Grill,"North Indian, Kebab, Biryani, Mughlai",4.4,"₹2,000 for two",https://www.zomato.com/bangalore/punjab-grill-brigade-road-bangalore/info
+Bangalore,Bier Loft Brewing Co,"Continental, Asian, North Indian, South Indian, Pizza, Desserts",4.3,"₹1,000 for two",https://www.zomato.com/bangalore/bier-loft-brewing-co-electronic-city-bangalore/info
+Bangalore,Smoke House Deli,"Continental, Italian, BBQ, Fast Food, Ice Cream, Salad, Desserts, Beverages",4.5,"₹1,800 for two",https://www.zomato.com/SmokeHouseDeli-Indiranagar/info
+Bangalore,Sarjapur SOCIAL,"North Indian, Chinese, Biryani, Pasta, Burger, Pizza, Korean, Beverages",4.3,"₹1,500 for two",https://www.zomato.com/SarjapurSocial/info
+Bangalore,Copitas - Four Seasons Hotel,"Bar Food, Continental, Beverages",4.5,"₹3,000 for two",https://www.zomato.com/bangalore/copitas-four-seasons-hotel-rt-nagar-bangalore/info
+Bangalore,153 Biere Street,"Asian, Continental, North Indian, Malaysian, Italian, Desserts",4.2,"₹1,600 for two",https://www.zomato.com/bangalore/153-biere-street-whitefield-bangalore/info
+Bangalore,Oney Brewhouse,"American, Continental, Italian, South Indian, North Indian, Asian, Chinese",4.0,"₹1,500 for two",https://www.zomato.com/bangalore/oney-brewhouse-cunningham-road-bangalore/info
+Bangalore,Mirage,"Asian, Chinese, Thai, Beverages, Desserts",4.1,"₹3,000 for two",https://www.zomato.com/bangalore/mirage-st-marks-road-bangalore/info
+Bangalore,The Lazy Turtle,"North Indian, Chinese, Seafood, Fast Food, Pizza, Bar Food, Desserts",4.1,"₹1,000 for two",https://www.zomato.com/bangalore/the-lazy-turtle-koramangala-4th-block-bangalore/info
+Bangalore,Hoot Cafe & Brewery Sarjapura,"Continental, Italian, North Indian, Beverages",4.2,"₹2,000 for two",https://www.zomato.com/bangalore/hoot-cafe-brewery-sarjapura-sarjapur-road-bangalore/info
+Bangalore,Don't Tell Mama,"North Indian, Continental, Chinese, Italian, Oriental, Thai, Biryani",4.1,"₹2,000 for two",https://www.zomato.com/bangalore/dont-tell-mama-1-hsr-bangalore/info
+Bangalore,One8 Commune,"North Indian, Chinese, Pasta, Sushi, Continental, Desserts, Beverages",4.0,"₹3,000 for two",https://www.zomato.com/bangalore/one8-commune-lavelle-road-bangalore/info
+Bangalore,Gilly's Restobar,"North Indian, European, Bar Food, Italian, Fast Food, Desserts, Beverages",4.2,"₹1,500 for two",https://www.zomato.com/bangalore/gillys-restobar-bannerghatta-road-bangalore/info
+Bangalore,"Torye Drink, Dine & Dance",N/A,3.9,"₹2,000 for two",https://www.zomato.com/bangalore/torye-drink-dine-dance-rajarajeshwari-nagar-bangalore/info
+Bangalore,By Chance,"Italian, Continental",4.2,"₹2,000 for two",https://www.zomato.com/bangalore/by-chance-1-brigade-road-bangalore/info
+Bangalore,Tipsy Bull Brewhouse & Kitchen,"North Indian, Continental, Chinese, Asian, European, Desserts, Beverages",4.1,"₹1,500 for two",https://www.zomato.com/bangalore/tipsy-bull-brewhouse-kitchen-mahadevapura-bangalore/info
+Bangalore,Ganbeii,"Kerala, North Indian, Pasta, Continental, Pizza, Burger, Desserts, Alcoholic Beverages",4.5,"₹1,000 for two",https://www.zomato.com/bangalore/ganbeii-koramangala-5th-block-bangalore/info
+Bangalore,Vapour Brewpub And Diner,"North Indian, Continental, Italian, European, Biryani, Salad, Desserts, Beverages",4.3,"₹2,200 for two",https://www.zomato.com/bangalore/vapour-brewpub-and-diner-sarjapur-road-bangalore/info
+Bangalore,HOD - House Of Dopamine,"Continental, Chinese, Asian, Alcoholic Beverages, North Indian, South Indian, Pizza, Bar Food",4.0,"₹1,200 for two",https://www.zomato.com/bangalore/hod-house-of-dopamine-koramangala-7th-block-bangalore/info
+Bangalore,Toit,"Italian, American, European, Continental, Desserts",4.9,"₹2,500 for two",https://www.zomato.com/bangalore/toit-indiranagar/info
+Bangalore,Skyroot by TOF,"Continental, Asian, North Indian, Desserts, Bar Food, International",4.1,"₹1,500 for two",https://www.zomato.com/bangalore/skyroot-by-tof-bannerghatta-road-bangalore/info
+Bangalore,ShakesBierre,"Finger Food, North Indian, Continental, Italian, Desserts, Beverages",4.4,"₹1,800 for two",https://www.zomato.com/bangalore/shakesbierre-1-brigade-road-bangalore/info
+Bangalore,Sly Granny,"Italian, European, Bar Food, Salad, Burger, Sandwich, Desserts, Beverages",4.3,"₹2,500 for two",https://www.zomato.com/bangalore/sly-granny-indiranagar-bangalore/info
+Bangalore,Bastian Garden City,"Asian, Chinese, Seafood",3.4,"₹4,000 for two",https://www.zomato.com/bangalore/bastian-garden-city-st-marks-road-bangalore/info
+Bangalore,Stories Brewery & Kitchen,"North Indian, Continental, Chinese, Finger Food, Beverages, Desserts",4.4,"₹1,600 for two",https://www.zomato.com/bangalore/stories-brewery-kitchen-btm-bangalore/info
+Bangalore,The Soda Factory,"North Indian, Chinese, Pasta, Pizza, Fast Food, Biryani, Desserts, Beverages",4.3,"₹1,100 for two",https://www.zomato.com/bangalore/the-soda-factory-nagarbhavi-bangalore/info
+Bangalore,Pinxx - Royal Orchid Central,"Continental, North Indian, Chinese, Sandwich, Asian, Desserts, Beverages",4.1,"₹1,900 for two",https://www.zomato.com/bangalore/pinxx-royal-orchid-central-mg-road-bangalore/info
+Bangalore,Just BLR,"North Indian, Chinese, Biryani, Beverages",4.4,"₹2,500 for two",https://www.zomato.com/bangalore/just-blr-1-brigade-road-bangalore/info
+Bangalore,Jook Taproom,"North Indian, South Indian, Chinese, Pizza, Fast Food, Biryani, Asian, Bar Food",4.4,"₹1,600 for two",https://www.zomato.com/bangalore/jook-taproom-indiranagar-bangalore/info
+Bangalore,Nook - Aloft Bengaluru Cessna Business Park,"North Indian, Continental, Asian, Fast Food, South Indian, Desserts, Waffle",4.0,"₹1,200 for two",https://www.zomato.com/bangalore/nook-aloft-bengaluru-cessna-business-park-kadubeesanahalli-bangalore/info
+Bangalore,Gulp Cocktails And Kitchen,"Continental, South Indian, Kebab, Mangalorean, Biryani, North Indian, Chinese, Desserts",4.2,"₹1,500 for two",https://www.zomato.com/bangalore/gulp-cocktails-and-kitchen-banashankari-bangalore/info
+Bangalore,Mangroove Taproom and Kitchen,"Chinese, Asian, Italian, Pizza, North Indian, Bar Food, Continental, Beverages",4.4,"₹2,500 for two",https://www.zomato.com/bangalore/mangroove-taproom-and-kitchen-electronic-city-bangalore/info
+Bangalore,Bramble,"Continental, Asian, North Indian, Italian, Bar Food, Beverages",4.4,"₹1,800 for two",https://www.zomato.com/bangalore/bramble-jayanagar-bangalore/info
+Bangalore,Hashtag 88,"Asian, Chinese, Salad, North Indian, Fast Food, Biryani, Desserts",4.3,"₹2,000 for two",https://www.zomato.com/bangalore/hashtag-88-marathahalli-bangalore/info
+Bangalore,The Pizza Bakery,"Pizza, Italian, Pasta, Salad, Desserts, Continental",4.3,"₹1,500 for two",https://www.zomato.com/bangalore/the-pizza-bakery-indiranagar-bangalore/info
+Bangalore,Bob's Bar,"Bar Food, Finger Food, Beverages, Sandwich, Desserts",4.2,"₹1,000 for two",https://www.zomato.com/bangalore/bobs-bar-1-indiranagar-bangalore/info
+Bangalore,The Fixx,"North Indian, Continental, Chinese, Seafood, Pasta, Pizza, Biryani, Beverages",4.0,"₹1,800 for two",https://www.zomato.com/bangalore/the-fixx-1-koramangala-4th-block-bangalore/info
+Bangalore,The Yard,"Asian, North Indian, Continental, Pizza, Italian, Desserts, Beverages",4.2,"₹1,000 for two",https://www.zomato.com/bangalore/the-yard-mahadevapura-bangalore/info
+Bangalore,Little Italy,"Italian, Pizza, Pasta, Continental, Desserts, Healthy Food, Beverages",4.0,"₹1,700 for two",https://www.zomato.com/bangalore/little-italy-indiranagar/info
+Bangalore,The Soda Factory,"Continental, Chinese, Thai",N/A,"₹1,000 for two",https://www.zomato.com/bangalore/the-soda-factory-bannerghatta-road-bangalore/info
+Bangalore,Omega IX Cocktail Bar And Global Kitchen,"North Indian, Continental, Asian, Sushi, Italian, Desserts, Beverages",4.2,"₹1,800 for two",https://www.zomato.com/bangalore/omega-ix-cocktail-bar-and-global-kitchen-sahakara-nagar-bangalore/info
+Bangalore,No Limmits Lounge And Club,"Chinese, Continental, North Indian, Fast Food, Pizza, Beverages, Kebab, Desserts",4.0,"₹2,500 for two",https://www.zomato.com/bangalore/no-limmits-lounge-and-club-brigade-road-bangalore/info
+Bangalore,Terrace By House Of Commons,"Modern Indian, Continental, Asian, Chinese, North Indian, Seafood, Bar Food, Beverages",4.5,"₹2,000 for two",https://www.zomato.com/bangalore/terrace-by-house-of-commons-jp-nagar-bangalore/info
+Bangalore,LUPA,"Mediterranean, European, Italian, Salad, Desserts, Beverages",3.6,"₹5,000 for two",https://www.zomato.com/bangalore/lupa-mg-road-bangalore/info
+Bangalore,XOOX Brewmill,"North Indian, Continental, American, Italian, Asian, Modern Indian, Pizza, Desserts",4.3,"₹2,000 for two",https://www.zomato.com/bangalore/xoox-brewmill-koramangala-5th-block-bangalore/info
+Bangalore,KOKO,"Asian, Sushi, Desserts, Chinese, Beverages",4.6,"₹3,500 for two",https://www.zomato.com/bangalore/koko-airport-road-bangalore/info
+Bangalore,Taiki,"Sushi, Korean, Japanese, Salad, Asian, Desserts, Beverages",4.0,"₹1,700 for two",https://www.zomato.com/bangalore/taiki-1-indiranagar-bangalore/info
+Bangalore,Hydra Club & Kitchen,"Continental, Biryani, North Indian, South Indian, Japanese, Chinese",4.2,"₹1,200 for two",https://www.zomato.com/bangalore/hydra-club-kitchen-koramangala-5th-block-bangalore/info
+Bangalore,Kappa Chakka Kandhari,"Kerala, South Indian, Desserts, Beverages",4.4,"₹1,800 for two",https://www.zomato.com/bangalore/kappa-chakka-kandhari-koramangala-6th-block-bangalore/info
+Bangalore,Fire Station,"Finger Food, North Indian, Continental, Italian, Chinese, Beverages, Desserts",4.2,"₹1,700 for two",https://www.zomato.com/bangalore/fire-station-electronic-city-bangalore/info
+Bangalore,Peepai,"North Indian, Pizza, Chinese, European, Bar Food, Biryani, Desserts, Beverages",4.5,"₹2,500 for two",https://www.zomato.com/bangalore/peepai-3-hebbal-bangalore/info
+Bangalore,PizzaExpress,"Pizza, Italian, Salad, Bakery, Coffee, Beverages, Pasta, Cafe",4.4,"₹1,400 for two",https://www.zomato.com/bangalore/pizzaexpress-indiranagar-bangalore/info
+Bangalore,Jeff's Cantina,"Bar Food, Italian",4.1,"₹2,400 for two",https://www.zomato.com/bangalore/jeffs-cantina-airport-road-bangalore/info
+Bangalore,Kaavu,"Asian, European, Modern Indian, Cafe, Desserts, Bakery, Italian, Continental",4.1,"₹1,500 for two",https://www.zomato.com/bangalore/kaavu-whitefield-bangalore/info
+Bangalore,Levels Pub & Kitchen,"Asian, South Indian, North Indian",4.5,"₹1,700 for two",https://www.zomato.com/bangalore/levels-pub-kitchen-jp-nagar-bangalore/info
+Bangalore,Chin Lung Resto Bar - Koramangla,"Bar Food, Chinese, North Indian",4.1,"₹1,400 for two",https://www.zomato.com/bangalore/chin-lung-resto-bar-koramangla-koramangala-4th-block-bangalore/info
+Bangalore,Float Brewery,"Bar Food, Continental, Italian, Asian, North Indian, Desserts, Pizza, Beverages",4.4,"₹2,000 for two",https://www.zomato.com/bangalore/float-brewery-kalyan-nagar-bangalore/info
+Bangalore,Hitchki,"North Indian, Chinese, Continental, Biryani, Finger Food, Bar Food, Desserts, Beverages",4.3,"₹2,000 for two",https://www.zomato.com/bangalore/hitchki-kr-puram-bangalore/info
+Bangalore,La Gioia,"Pizza, Italian, Pasta",4.0,"₹1,600 for two",https://www.zomato.com/bangalore/la-gioia-indiranagar-bangalore/info
+Bangalore,Hungry Hippie,"North Indian, Italian, Continental, Mexican, Pizza, Fast Food, Desserts, Beverages",4.1,"₹1,200 for two",https://www.zomato.com/bangalore/hungry-hippie-koramangala-5th-block/info
+Bangalore,1131 Bar + Kitchen By House Of Commons,"Finger Food, North Indian, Continental, Chinese, Italian, Asian, Desserts, Beverages",4.5,"₹2,000 for two",https://www.zomato.com/bangalore/1131-bar-kitchen-by-house-of-commons-indiranagar-bangalore/info
+Bangalore,Sidewalk Bar & Kitchen,"North Indian, Continental, Chinese, Fast Food, Beverages",4.3,"₹1,800 for two",https://www.zomato.com/bangalore/sidewalk-bar-kitchen-marathahalli-bangalore/info
+Bangalore,Jugni Kitchen & Bar,"North Indian, Modern Indian, Bar Food, Seafood, South Indian, Desserts, Beverages",4.4,"₹2,000 for two",https://www.zomato.com/bangalore/jugni-kitchen-bar-koramangala-5th-block-bangalore/info
+Bangalore,Communiti,"American, Continental, European, Italian, Oriental, Burger, Beverages",4.5,"₹1,200 for two",https://www.zomato.com/bangalore/communiti-brigade-road-bangalore/info
+Bangalore,Jolly Johnny's Bar,"North Indian, Continental, Chinese, Biryani, Pizza, Fast Food, Desserts, Beverages",4.5,"₹1,000 for two",https://www.zomato.com/bangalore/jolly-johnnys-bar-koramangala-8th-block-bangalore/info
+Bangalore,Skyro,"North Indian, Asian, Chinese, Continental, Seafood",3.9,"₹1,500 for two",https://www.zomato.com/bangalore/skyro-nagarbhavi-bangalore/info
+Bangalore,House Of Commons,"Bar Food, Fast Food, North Indian, Continental, Seafood, Italian, Chinese, Desserts",4.5,"₹1,200 for two",https://www.zomato.com/bangalore/house-of-commons-hsr-bangalore/info
+Bangalore,Badmaash,"North Indian, South Indian, Mughlai, Kebab, Chinese, Biryani, Desserts",4.2,"₹1,800 for two",https://www.zomato.com/bangalore/badmaash-vijay-nagar-bangalore/info
+Bangalore,21st Amendment Gastrobar,"North Indian, Pasta, Chinese, Bar Food, Continental, Beverages, Pizza, South Indian",4.3,"₹1,400 for two",https://www.zomato.com/bangalore/21st-amendment-gastrobar-indiranagar-bangalore/info
+Bangalore,Bricks Bar & Kitchen,"Indian, Chinese, Beverages",4.5,"₹1,000 for two",https://www.zomato.com/bangalore/bricks-bar-kitchen-jp-nagar-bangalore/info
+Bangalore,Barrys Sky Lounge,"Chinese, North Indian, Oriental, Mughlai, Biryani",4.1,"₹1,000 for two",https://www.zomato.com/bangalore/barrys-sky-lounge-kalyan-nagar-bangalore/info
+Bangalore,Chili's American Grill & Bar,"Burger, Mexican, American, Tex-Mex, Fast Food, Desserts, Beverages",4.3,"₹2,000 for two",https://www.zomato.com/bangalore/chilis-american-grill-bar-bellandur-bangalore/info
+Bangalore,Bunny Bar,"North Indian, Continental, Asian, Bar Food",4.4,"₹1,000 for two",https://www.zomato.com/bangalore/bunny-bar-koramangala-4th-block-bangalore/info
+Bangalore,Watson's,"North Indian, Continental, Italian, European, Asian, Beverages, Desserts",4.4,"₹1,600 for two",https://www.zomato.com/bangalore/watsons-ulsoor/info
+Bangalore,Geometry Brewery & Kitchen,"Chinese, North Indian, Italian, Continental, Pizza, Desserts, Beverages, Bar Food",4.3,"₹1,800 for two",https://www.zomato.com/bangalore/geometry-brewery-kitchen-rajajinagar-bangalore/info
+Bangalore,Skyye,"Continental, Asian, Thai, Seafood, Italian, Beverages, Desserts",4.0,"₹2,200 for two",https://www.zomato.com/bangalore/skyye-lavelle-road/info
+Bangalore,Candles Brewhouse,"Italian, Continental, American, Pizza, North Indian",4.2,"₹2,500 for two",https://www.zomato.com/bangalore/candles-brewhouse-hebbal-bangalore/info
+Bangalore,Nando's- Flame Grilled PERi- PERi Chicken,"Burger, Healthy Food, Portuguese, Desserts",4.4,"₹1,500 for two",https://www.zomato.com/bangalore/nandos-flame-grilled-peri-peri-chicken-brigade-road-bangalore/info
+Bangalore,Ambedo Kitchen|Taproom,"Continental, Asian, North Indian, Italian, Pizza, Sushi",4.7,"₹1,500 for two",https://www.zomato.com/bangalore/ambedo-kitchen-taproom-jp-nagar-bangalore/info
+Bangalore,Plan B,"American, Continental, Burger, Pizza, Tex-Mex, Finger Food",4.0,"₹1,600 for two",https://www.zomato.com/bangalore/plan-b-1-new-bel-road-bangalore/info
+Bangalore,Jewel Sizzle,"Mughlai, North Indian, Biryani",4.1,"₹1,000 for two",https://www.zomato.com/bangalore/jewel-sizzle-jp-nagar-bangalore/info
+Bangalore,La Milano Pizzeria,"Pizza, Pasta, Italian, American, Mexican, Fast Food, Desserts, Beverages",4.1,₹400 for two,https://www.zomato.com/bangalore/la-milano-pizzeria-sarjapur-road-bangalore/info
+Bangalore,You Mee,"Asian, Sushi, Japanese, Chinese, Desserts, Beverages",4.3,"₹2,000 for two",https://www.zomato.com/bangalore/you-mee-malleshwaram-bangalore/info
+Bangalore,The Peak,"Continental, Mangalorean",4.3,"₹1,000 for two",https://www.zomato.com/bangalore/the-peak-2-sahakara-nagar-bangalore/info
+Bangalore,Geometry Gastropub,"Continental, North Indian, Chinese, Mughlai, Biryani, Desserts, Beverages",4.4,"₹1,600 for two",https://www.zomato.com/bangalore/geometry-gastropub-new-bel-road-bangalore/info
+Bangalore,Maize & Malt,"Continental, Asian, South Indian, North Indian, Salad, Momos, Desserts",4.3,"₹2,000 for two",https://www.zomato.com/bangalore/maize-malt-whitefield-bangalore/info
+Bangalore,TBC- Sky Lounge,"Continental, Italian, Asian, North Indian, South Indian, Biryani, Desserts, Beverages",4.5,"₹1,500 for two",https://www.zomato.com/bangalore/tbc-sky-lounge-hsr-bangalore/info
+Bangalore,Tipsy Bull - The Bar Exchange,"Finger Food, North Indian, Continental, Italian, Fast Food, Desserts",4.3,"₹1,200 for two",https://www.zomato.com/bangalore/tipsy-bull-the-bar-exchange-indiranagar-bangalore/info
+Bangalore,K-OS TheGameBar,"Continental, Italian, North Indian, Finger Food, Asian, Fast Food",4.3,"₹1,700 for two",https://www.zomato.com/bangalore/k-os-thegamebar-koramangala-7th-block-bangalore/info
+Bangalore,La Casa Brewery And Kitchen,"Continental, North Indian, Mughlai, Chinese, Finger Food, Steak, Desserts, Beverages",4.3,"₹2,000 for two",https://www.zomato.com/bangalore/la-casa-brewery-and-kitchen-sarjapur-road-bangalore/info
+Bangalore,AEIOU,"Continental, Pizza",N/A,"₹1,000 for two",https://www.zomato.com/bangalore/aeiou-nagawara-bangalore/info
+Bangalore,Quattro - The Leela Bhartiya City Bengaluru,"North Indian, Mediterranean, European",4.4,"₹3,500 for two",https://www.zomato.com/bangalore/quattro-the-leela-bhartiya-city-bengaluru-jakkur-bangalore/info
+Bangalore,Shift Lounge & Bar,"Finger Food, Continental, North Indian, Salad, Seafood, Mughlai, Alcoholic Beverages, Beverages",4.1,"₹1,000 for two",https://www.zomato.com/bangalore/shift-lounge-bar-hsr-bangalore/info
+Bangalore,Paradise Biryani - A Legend Since 1953,"Biryani, Kebab, North Indian, Rolls, Chinese, Desserts",4.1,"₹1,100 for two",https://www.zomato.com/bangalore/paradise-biryani-a-legend-since-1953-itpl-main-road-whitefield-bangalore/info
+Bangalore,Catch Up,"Chinese, North Indian, Continental, Biryani, Fast Food, Desserts",4.2,"₹1,200 for two",https://www.zomato.com/bangalore/catch-up-hsr-bangalore/info
+Bangalore,Just BLR Arena,"Continental, North Indian, Italian, Beverages",4.3,"₹1,800 for two",https://www.zomato.com/bangalore/just-blr-arena-1-brigade-road-bangalore/info
+Bangalore,Chowman,"Chinese, Asian, Thai, Seafood, Sichuan, Desserts, Beverages",4.5,"₹1,400 for two",https://www.zomato.com/bangalore/chowman-indiranagar-bangalore/info
+Bangalore,The Druid Garden,"Asian, Pizza, Italian, Chinese, Mangalorean, Steak, Desserts",4.2,"₹1,800 for two",https://www.zomato.com/bangalore/the-druid-garden-sahakara-nagar-bangalore/info
+Bangalore,"The Studs Sports Bar - All Day Café, Taproom & Kitchen","North Indian, Bar Food, Italian, Continental, Biryani, Pizza, Chinese, Alcoholic Beverages",4.1,"₹1,200 for two",https://www.zomato.com/bangalore/the-studs-sports-bar-all-day-caf%C3%A9-taproom-kitchen-jp-nagar-bangalore/info
+Bangalore,The Creek - The Den Bengaluru,"North Indian, South Indian, Asian, Pizza, Desserts",4.1,"₹3,000 for two",https://www.zomato.com/bangalore/the-creek-the-den-bengaluru-whitefield/info
+Bangalore,Bamey's Restro Cafe,"Asian, Nepalese, Momos",4.2,₹950 for two,https://www.zomato.com/bameys/info
+Bangalore,Tim Hortons,"Cafe, Coffee, Beverages, Desserts, Sandwich, Fast Food",4.2,₹800 for two,https://www.zomato.com/bangalore/tim-hortons-koramangala-8th-block-bangalore/info
+Bangalore,Liquids Bar & Kitchen,"Bar Food, Asian, North Indian, Pizza, Continental",4.2,"₹1,500 for two",https://www.zomato.com/bangalore/liquids-bar-kitchen-new-bel-road-bangalore/info
+Bangalore,The Bangalore Cafe,"North Indian, Italian, Continental, Biryani, Chinese, Desserts",4.2,₹950 for two,https://www.zomato.com/bangalore/the-bangalore-cafe-1-shanti-nagar-bangalore/info
+Bangalore,BANOFFEE,"Continental, Mexican, European, Beverages, Desserts",4.1,"₹1,000 for two",https://www.zomato.com/bangalore/banoffee-hsr-bangalore/info
+Bangalore,District 6 Pub Brewery & Kitchen,"North Indian, Pizza, Italian, Bar Food, Continental, Asian, Desserts",4.4,"₹2,500 for two",https://www.zomato.com/bangalore/district-6-pub-brewery-kitchen-malleshwaram-bangalore/info
+Bangalore,Bira 91 Taproom,"Continental, Fast Food, Bar Food, North Indian, Italian, Beverages",4.1,"₹2,500 for two",https://www.zomato.com/bangalore/bira-91-taproom-koramangala-4th-block-bangalore/info
+Bangalore,California Burrito,"Mexican, American, Continental, Healthy Food, Beverages, Fast Food",4.0,₹450 for two,https://www.zomato.com/bangalore/california-burrito-1-whitefield-bangalore/info
+Bangalore,Pasta Street,"Italian, Pasta, Pizza, Continental, Salad, Healthy Food, Desserts, Beverages",4.6,"₹1,800 for two",https://www.zomato.com/bangalore/pasta-street-jp-nagar-bangalore/info
+Bangalore,Uru Brewpark,"Continental, North Indian, Italian, Chinese, Asian, Pizza, Lebanese, Beverages",4.3,"₹2,200 for two",https://www.zomato.com/bangalore/uru-brewpark-jp-nagar-bangalore/info
+Bangalore,Aromas Of Biryani,"Biryani, North Indian, South Indian, Hyderabadi",3.9,"₹1,000 for two",https://www.zomato.com/bangalore/aromas-of-biryani-kammanahalli-bangalore/info
+Bangalore,Windmills,"Continental, North Indian, Mughlai, Kebab, Desserts",4.8,"₹3,500 for two",https://www.zomato.com/bangalore/windmills-1-whitefield-bangalore/info
+Bangalore,Chavadi Native Kitchen Community Cafe,"North Indian, South Indian, Seafood, Desserts, Beverages",4.3,"₹1,200 for two",https://www.zomato.com/bangalore/chavadi-native-kitchen-community-cafe-bannerghatta-road-bangalore/info
+Bangalore,Neo Kitchen - Hilton Embassy Manyata Business Park,"Asian, Continental, Italian, South Indian, North Indian, Biryani, Desserts, Beverages",4.1,"₹3,100 for two",https://www.zomato.com/bangalore/neo-kitchen-hilton-embassy-manyata-business-park-nagawara-bangalore/info
+Bangalore,Harley's Fine Baking,"Bakery, Sandwich, Desserts",4.3,₹600 for two,https://www.zomato.com/bangalore/harleys-fine-baking-jp-nagar-bangalore/info
+Bangalore,Feast - Sheraton Grand Bengaluru Whitefield Hotel & Convention Centre,"Continental, South Indian, North Indian, Desserts, Beverages",4.3,"₹3,500 for two",https://www.zomato.com/bangalore/feast-sheraton-grand-bengaluru-whitefield-hotel-convention-centre-whitefield-bangalore/info
+Bangalore,Barista Coffee,"Cafe, Coffee, Tea, Desserts",4.1,₹600 for two,https://www.zomato.com/bangalore/barista-coffee-nagawara-bangalore/info
+Bangalore,1522 - The Pub,"Bar Food, North Indian, Chinese, Mughlai, Salad, Continental, South Indian, BBQ",3.9,"₹1,800 for two",https://www.zomato.com/bangalore/1522-the-pub-koramangala-4th-block/info
+Bangalore,Long Boat Brewing Co.,"Asian, Chinese, North Indian, Pizza, South Indian, Continental",4.3,"₹2,000 for two",https://www.zomato.com/bangalore/long-boat-brewing-co-marathahalli-bangalore/info
+Bangalore,Good Flippin' Burgers,"Burger, American",3.8,₹650 for two,https://www.zomato.com/bangalore/good-flippin-burgers-bellandur-bangalore/info
+Bangalore,Dali & Gala,"South Indian, Asian, Burmese, Chinese, Continental",3.9,"₹2,000 for two",https://www.zomato.com/bangalore/dali-gala-mg-road-bangalore/info
+Bangalore,Bombay Adda,"Continental, North Indian, Asian, Pizza, Fast Food, Kebab, Desserts, Beverages",4.2,"₹2,000 for two",https://www.zomato.com/bangalore/bombay-adda-koramangala-7th-block-bangalore/info
+Bangalore,Truffles,"Burger, Italian, Desserts, Continental, American, Fast Food, Beverages",4.7,"₹1,100 for two",https://www.zomato.com/bangalore/truffles-koramangala-5th-block/info
+Bangalore,Hangover Brewery,"Continental, North Indian, Chinese, Finger Food, Burger, Pizza, Desserts",4.0,"₹2,000 for two",https://www.zomato.com/bangalore/hangover-brewery-koramangala-7th-block-bangalore/info
+Bangalore,Brik Oven,"Pizza, Italian, Beverages, Desserts, Shake",4.5,"₹1,200 for two",https://www.zomato.com/bangalore/brik-oven-bellandur-bangalore/info
+Bangalore,We: Neighborhood,"European, American, North Indian, Burger, Pizza, Desserts, Beverages",4.5,"₹1,000 for two",https://www.zomato.com/bangalore/we-neighborhood-brigade-road-bangalore/info
+Bangalore,Toca Brigade & Terrace,"South Indian, North Indian, Continental, Chinese, Seafood, Pasta",4.2,"₹1,100 for two",https://www.zomato.com/bangalore/toca-brigade-terrace-brigade-road-bangalore/info
+Bangalore,Imperial Restaurant - Since 1954,"North Indian, Mughlai, Chinese, Biryani, Seafood, Desserts, Shake, Beverages",4.0,"₹1,000 for two",https://www.zomato.com/bangalore/imperial-restaurant-since-1954-marathahalli-bangalore/info
+Bangalore,Malgudi Mylari Mane,"South Indian, Biryani",4.6,"₹1,000 for two",https://www.zomato.com/bangalore/malgudi-mylari-mane-1-koramangala-5th-block-bangalore/info
+Bangalore,Original Burger Co.,"Burger, Fast Food, Desserts",4.1,₹600 for two,https://www.zomato.com/bangalore/original-burger-co-kalyan-nagar-bangalore/info
+Bangalore,The Golden Circle Brewery,"North Indian, Asian, Italian, Continental, Beverages, Desserts",4.3,"₹1,500 for two",https://www.zomato.com/bangalore/the-golden-circle-brewery-sarjapur-road-bangalore/info
+Bangalore,Easy Tiger,"Finger Food, Continental",4.1,"₹1,700 for two",https://www.zomato.com/bangalore/easy-tiger-church-street/info
+Bangalore,DNC - Dash and Coop,"Sandwich, Street Food, Burger, Continental, American, Fast Food, Cafe, Finger Food",3.6,₹500 for two,https://www.zomato.com/bangalore/dnc-dash-and-coop-hsr-bangalore/info
+Bangalore,Techila,"North Indian, Burger, Biryani, Pizza, Chinese, Mexican, Fast Food, Rolls",4.3,"₹1,200 for two",https://www.zomato.com/bangalore/techila-nagawara-bangalore/info
+Bangalore,The Watering Hole,"Continental, North Indian, European, Asian, Desserts, Beverages",4.1,"₹1,400 for two",https://www.zomato.com/bangalore/the-watering-hole-btm-bangalore/info
+Bangalore,Drunken Daddy,"North Indian, Continental, Fast Food, Oriental, Finger Food, Biryani, Beverages",4.3,"₹1,400 for two",https://www.zomato.com/bangalore/drunken-daddy-koramangala-5th-block-bangalore/info
+Bangalore,Kongsi Tea Bar,"Bubble Tea, Tea, Beverages, Shake",3.6,₹350 for two,https://www.zomato.com/bangalore/kongsi-tea-bar-jayanagar-bangalore/info
+Bangalore,Raahi Neo Kitchen and Bar,"North Indian, Pasta, Pizza, Desserts, Beverages",3.8,"₹2,000 for two",https://www.zomato.com/bangalore/raahi-neo-kitchen-and-bar-church-street-bangalore/info
+Bangalore,Wild Pour,"Continental, North Indian, Asian",4.0,"₹1,000 for two",https://www.zomato.com/bangalore/wild-pour-hennur-bangalore/info
+Bangalore,Brahma Brews,"Asian, North Indian, South Indian",4.6,"₹2,500 for two",https://www.zomato.com/bangalore/brahma-brews-jp-nagar-bangalore/info
+Bangalore,The Coffee Brewery,"Cafe, Coffee, Sandwich, Mexican, Healthy Food, Fast Food, Desserts, Shake",4.2,₹750 for two,https://www.zomato.com/bangalore/the-coffee-brewery-malleshwaram-bangalore/info
+Bangalore,The Palms Brew & Kitchen,"Modern Indian, North Indian",N/A,"₹1,600 for two",https://www.zomato.com/bangalore/the-palms-brew-kitchen-jp-nagar-bangalore/info
+Bangalore,M Cafe - Bengaluru Marriott Hotel Whitefield,"North Indian, Continental, Italian, Thai",4.0,"₹3,800 for two",https://www.zomato.com/bangalore/m-cafe-bengaluru-marriott-hotel-whitefield-whitefield/info
+Bangalore,Meghana Foods,"Biryani, Andhra, North Indian, Seafood",4.2,"₹1,000 for two",https://www.zomato.com/bangalore/meghana-foods-residency-road/info
+Bangalore,Flyover Drinkery,"Oriental, Italian, Continental, Mangalorean, Thai, North Indian, South Indian",4.4,"₹1,500 for two",https://www.zomato.com/bangalore/flyover-drinkery-hebbal-bangalore/info
+Bangalore,Bg'S Poolside Bar & Grill - Courtyard By Marriott,"Mediterranean, Italian, Mexican, Fast Food, Desserts",4.0,"₹2,000 for two",https://www.zomato.com/bangalore/bgs-poolside-bar-grill-courtyard-by-marriott-bellandur-bangalore/info
+Bangalore,Monsoon - The Park Bangalore,"Italian, North Indian, Continental, Asian, Seafood, Desserts",3.9,"₹3,500 for two",https://www.zomato.com/bangalore/monsoon-the-park-bangalore-mg-road-bangalore/info
+Bangalore,Dhwani,"Bar Food, North Indian, Fast Food, South Indian, Asian, Momos",4.5,"₹1,000 for two",https://www.zomato.com/bangalore/dhwani-indiranagar-bangalore/info
+Bangalore,Onesta,"Pizza, Sandwich, Pasta, Fast Food, Desserts, Beverages",4.0,₹700 for two,https://www.zomato.com/bangalore/onesta-kanakapura-road-bangalore/info
+Bangalore,Soka,"Bar Food, Continental",4.7,"₹1,000 for two",https://www.zomato.com/bangalore/soka-indiranagar-bangalore/info
+Bangalore,Phurr,"North Indian, Continental, Beverages",4.5,"₹2,000 for two",https://www.zomato.com/bangalore/phurr-jayanagar-bangalore/info
+Bangalore,Olive Beach,"Italian, Pizza, Mediterranean, Continental, European, Beverages, Desserts",4.4,"₹3,500 for two",https://www.zomato.com/bangalore/olive-beach-richmond-road-bangalore/info
+Bangalore,Dot.yum - Aloft Hotel,"Continental, Oriental, North Indian, Desserts, Beverages",3.7,"₹2,500 for two",https://www.zomato.com/bangalore/dot-yum-aloft-hotel-whitefield/info
+Bangalore,Drava,"Continental, Fast Food, North Indian, Asian, Beverages",4.1,"₹1,800 for two",https://www.zomato.com/bangalore/drava-koramangala-5th-block-bangalore/info
+Bangalore,Restaurant Chef Pillai,N/A,4.3,"₹1,000 for two",https://www.zomato.com/bangalore/restaurant-chef-pillai-brigade-road-bangalore/info
+Bangalore,The Biere Club,"Bar Food, Continental, Italian, Burger, Salad, Mediterranean, Pizza, Alcoholic Beverages",4.2,"₹2,600 for two",https://www.zomato.com/bangalore/the-biere-club-lavelle-road-bangalore/info
+Bangalore,Empire Restaurant - Since 1966,"North Indian, Biryani, Kebab, South Indian, Mughlai, Chinese, Seafood, Shawarma",4.0,₹950 for two,https://www.zomato.com/bangalore/empire-restaurant-since-1966-majestic-bangalore/info
+Bangalore,Yaara Da Dhaba (Pure Veg),"North Indian, Chinese, Healthy Food, Street Food, Beverages, Desserts",N/A,₹500 for two,https://www.zomato.com/bangalore/yaara-da-dhaba-pure-veg-nagawara-bangalore/info
+Bangalore,The 13th Floor,"North Indian, Asian, Kebab, Chinese, Salad, Beverages, Desserts",4.3,"₹2,500 for two",https://www.zomato.com/bangalore/the-13th-floor-mg-road-bangalore/info
+Bangalore,Punjabi Swag,"North Indian, Mughlai, Biryani, Chinese, Asian, Desserts",3.8,"₹1,200 for two",https://www.zomato.com/bangalore/punjabi-swag-btm/info
+Bangalore,Dishkeyaun,"Modern Indian, Biryani, Desserts, North Indian",4.2,"₹2,000 for two",https://www.zomato.com/bangalore/dishkeyaun-1-brigade-road-bangalore/info
+Bangalore,BaroO BLR,N/A,4.2,"₹1,000 for two",https://www.zomato.com/bangalore/baroo-blr-new-bel-road-bangalore/info
+Bangalore,Cubbon Pavilion - ITC Gardenia,"European, Continental, Chinese, Thai, South Indian, North Indian, Beverages",4.2,"₹3,000 for two",https://www.zomato.com/bangalore/cubbon-pavilion-itc-gardenia-residency-road-bangalore/info
+Bangalore,Indian Biere House,"Continental, Mediterranean, North Indian, Asian, Bar Food, Italian, Desserts, Beverages",4.5,"₹2,500 for two",https://www.zomato.com/bangalore/indian-biere-house-jp-nagar-bangalore/info
+Bangalore,Night Owl Sky Lounge,"North Indian, Asian, Modern Indian, Finger Food, Oriental, Desserts, Beverages",4.2,"₹1,900 for two",https://www.zomato.com/bangalore/night-owl-sky-lounge-ulsoor-bangalore/info
+Bangalore,Alienkind,N/A,N/A,₹200 for two,https://www.zomato.com/bangalore/alienkind-indiranagar-bangalore/info
+Bangalore,Espressoulster Coffee,"Cafe, Coffee, Fast Food",4.8,₹660 for two,https://www.zomato.com/bangalore/espressoulster-coffee-2-koramangala-4th-block-bangalore/info
+Bangalore,Memories Resto Bar,"North Indian, Mughlai, Biryani, Chinese, Pizza, Pasta, Salad, Beverages",3.9,₹650 for two,https://www.zomato.com/bangalore/memories-resto-bar-bommanahalli-bangalore/info
+Bangalore,23rd Street Pizza,"Pizza, American",4.2,"₹2,000 for two",https://www.zomato.com/bangalore/23rd-street-pizza-brigade-road-bangalore/info
+Bangalore,Lux Pub And Kitchen,"Asian, Chinese, Pizza, Pasta, Fast Food, Alcoholic Beverages, Bar Food",N/A,"₹1,500 for two",https://www.zomato.com/bangalore/lux-pub-and-kitchen-1-koramangala-7th-block-bangalore/info
+Bangalore,Blotto Bar and Kitchen,"Mangalorean, Seafood, Continental, North Indian",4.4,"₹2,000 for two",https://www.zomato.com/bangalore/blotto-bar-and-kitchen-sadashiv-nagar-bangalore/info
+Bangalore,Citrus Cafe - Lemon Tree Hotel,"South Indian, North Indian, Continental, Fast Food, Chinese, Oriental, Desserts, Beverages",3.7,"₹2,500 for two",https://www.zomato.com/bangalore/citrus-cafe-lemon-tree-hotel-electronic-city/info
+Bangalore,Lumara Bar & Kitchen,"Bar Food, North Indian, Chinese, Asian, Continental, Biryani, Sushi, Desserts",4.2,"₹2,000 for two",https://www.zomato.com/bangalore/lumara-bar-kitchen-mg-road-bangalore/info
+Bangalore,Blurred,"North Indian, South Indian, Continental, Chinese",4.0,"₹1,000 for two",https://www.zomato.com/bangalore/blurred-koramangala-5th-block-bangalore/info
+Bangalore,Sharief Bhai Biryani,"Biryani, North Indian, Mughlai, Chinese, Kebab, Rolls, Desserts, Beverages",4.0,"₹1,000 for two",https://www.zomato.com/bangalore/sharief-bhai-biryani-jalahalli-bangalore/info
+Bangalore,The Local,"Pizza, Continental, Burger, Seafood, Kerala, Finger Food, Beverages",4.4,"₹1,600 for two",https://www.zomato.com/bangalore/the-local-kalyan-nagar-bangalore/info
+Bangalore,Kebapci,"Kebab, Mandi, Turkish",3.9,"₹1,400 for two",https://www.zomato.com/bangalore/kebapci-1-kanakapura-road-bangalore/info
+Bangalore,Magnolia Bakery,"Bakery, Desserts",3.9,₹700 for two,https://www.zomato.com/bangalore/magnolia-bakery-indiranagar-bangalore/info
+Bangalore,The Big Barbeque,"North Indian, Chinese, Fast Food, Salad, Ice Cream, Desserts",4.2,"₹1,600 for two",https://www.zomato.com/bangalore/the-big-barbeque-electronic-city-bangalore/info
+Bangalore,Marbella Multicuisine Rooftop,"Continental, North Indian, Asian, Beverages",3.9,"₹1,200 for two",https://www.zomato.com/bangalore/marbella-multicuisine-rooftop-jayanagar-bangalore/info
+Bangalore,Mezera Brewery & Kitchen,N/A,4.2,"₹1,600 for two",https://www.zomato.com/bangalore/mezera-brewery-kitchen-jp-nagar-bangalore/info
+Bangalore,Nandhana Palace,"Biryani, Andhra, North Indian, Chinese, Desserts, Ice Cream, Beverages",4.0,"₹1,000 for two",https://www.zomato.com/bangalore/nandhana-palace-seegehalli-bangalore/info
+Bangalore,Klava,"Bakery, Desserts, Coffee, Shake",3.5,₹800 for two,https://www.zomato.com/bangalore/klava-brigade-road-bangalore/info
+Bangalore,The Coffee Brewery,"Cafe, Coffee, Sandwich, Fast Food, Desserts, Tea, Beverages",3.6,₹800 for two,https://www.zomato.com/bangalore/the-coffee-brewery-kalyan-nagar-bangalore/info
+Bangalore,Boche Club,"Bar Food, North Indian, Continental, Pasta, Fast Food, Chinese, Salad, Desserts",4.0,"₹2,000 for two",https://www.zomato.com/bangalore/boche-club-brigade-road-bangalore/info
+Bangalore,Burger Seigneur,"Burger, American, Continental, Fast Food, Desserts, Coffee, Cafe, Beverages",3.8,"₹1,100 for two",https://www.zomato.com/bangalore/burger-seigneur-church-street-bangalore/info
+Bangalore,The Chocolate Room,"Desserts, North Indian, Chinese, Pizza, Fast Food, Ice Cream, Coffee, Shake",3.7,₹550 for two,https://www.zomato.com/bangalore/the-chocolate-room-1-whitefield-bangalore/info
+Bangalore,Imperio Restaurant,"Biryani, South Indian, Kebab, North Indian, Chinese, Desserts, Beverages, Shawarma",4.0,"₹1,000 for two",https://www.zomato.com/bangalore/imperio-restaurant-kalyan-nagar-bangalore/info
+Bangalore,Bar Spirit Forward,"Continental, Asian, Beverages",4.2,"₹2,600 for two",https://www.zomato.com/bangalore/bar-spirit-forward-lavelle-road-bangalore/info
+Bangalore,Backstreet Brewery,"Italian, Bar Food, Pizza, North Indian, Asian, Desserts, Beverages",4.4,"₹1,800 for two",https://www.zomato.com/bangalore/backstreet-brewery-sarjapur-road-bangalore/info
+Bangalore,Prime Golf - Brewing & Golfing,"Modern Indian, Beverages, Momos",4.3,"₹2,000 for two",https://www.zomato.com/bangalore/prime-golf-brewing-golfing-whitefield-bangalore/info
+Bangalore,Nahdi Mandi,N/A,4.1,₹500 for two,https://www.zomato.com/bangalore/nahdi-mandi-btm-bangalore/info
+Bangalore,Chai Point,"Tea, Coffee, Beverages, Shake, Fast Food, Rolls, Desserts, Cafe",3.8,₹550 for two,https://www.zomato.com/bangalore/chai-point-1-hsr/info
+Bangalore,24@43 - The Oterra,"North Indian, Asian, Continental, Fast Food, Biryani, Desserts",4.1,"₹3,700 for two",https://www.zomato.com/bangalore/2443-the-oterra-electronic-city/info
+Bangalore,Murphy's Brewhouse - The Paul Bangalore,"Continental, Mexican, Italian, Fast Food, North Indian, Irish, Desserts, Beverages",4.3,"₹2,000 for two",https://www.zomato.com/bangalore/murphys-brewhouse-the-paul-bangalore-domlur-bangalore/info
+Bangalore,GOPIZZA,"Pizza, Fast Food, Beverages",3.9,₹500 for two,https://www.zomato.com/bangalore/gopizza-rt-nagar-bangalore/info
+Bangalore,Lotus Pavilion - ITC Gardenia,"Continental, North Indian, Beverages, Desserts, Pasta",4.0,"₹3,500 for two",https://www.zomato.com/bangalore/lotus-pavilion-itc-gardenia-richmond-road-bangalore/info
+Bangalore,Miso Sexy,"Japanese, Chinese, Sushi, Beverages",4.5,"₹1,800 for two",https://www.zomato.com/bangalore/miso-sexy-indiranagar-bangalore/info
+Bangalore,Huber & Holly,"Ice Cream, Desserts, Bakery, Pizza, Sandwich, Fast Food, Shake, Beverages",4.2,₹450 for two,https://www.zomato.com/bangalore/huber-holly-marathahalli-bangalore/info
+Bangalore,Pizza 4P's,"Pizza, Pasta",4.5,"₹1,000 for two",https://www.zomato.com/bangalore/pizza-4ps-indiranagar-bangalore/info
+Bangalore,Whimsy Whisky House,"Bar Food, South Indian, North Indian, Chinese, Asian, Continental, Italian, Salad",4.4,"₹2,100 for two",https://www.zomato.com/bangalore/whimsy-whisky-house-kadubeesanahalli-bangalore/info
+Bangalore,The Red Box,"Chinese, Momos, Oriental",3.9,₹500 for two,https://www.zomato.com/bangalore/the-red-box-2-marathahalli-bangalore/info
+Bangalore,Hoppipola,"Continental, Italian, Chinese, North Indian, Pizza, Beverages",4.0,"₹2,000 for two",https://www.zomato.com/bangalore/hoppipola-church-street/info
+Bangalore,Gatsby,"Finger Food, Healthy Food, North Indian, Asian, Sushi, Chinese, South Indian, Pizza",4.4,"₹2,500 for two",https://www.zomato.com/bangalore/gatsby-bannerghatta-road-bangalore/info
+Bangalore,Somras bar and kitchen,"North Indian, South Indian, Chinese, Continental, Seafood, Pizza, Beverages",4.2,"₹1,000 for two",https://www.zomato.com/bangalore/somras-bar-and-kitchen-1-hsr-bangalore/info
+Bangalore,Siren Cocktail Bar,"Continental, Mexican",3.9,"₹2,000 for two",https://www.zomato.com/bangalore/siren-cocktail-bar-lavelle-road-bangalore/info
+Bangalore,Sathya's,"North Indian, Chinese, Beverages",4.1,"₹1,400 for two",https://www.zomato.com/bangalore/sathyas-koramangala-1st-block-bangalore/info
+Bangalore,Pizza Hut,"Pizza, Italian, Pasta, Fast Food, Desserts, Beverages",3.7,₹600 for two,https://www.zomato.com/bangalore/pizza-hut-airport-road/info
+Bangalore,High Brew,"Bar Food, Beverages",4.2,"₹1,800 for two",https://www.zomato.com/bangalore/high-brew-jp-nagar-bangalore/info
+Bangalore,Graffiti by HOC,"Continental, Chinese, Modern Indian, Beverages",4.3,"₹1,000 for two",https://www.zomato.com/bangalore/graffiti-by-hoc-kalyan-nagar-bangalore/info
+Bangalore,Street 1522,"North Indian, Asian, Seafood, Continental, Mughlai, Kebab, Street Food, Beverages",4.3,"₹2,200 for two",https://www.zomato.com/bangalore/street-1522-sarjapur-road-bangalore/info
+Bangalore,Monaco Ice Cream,"Ice Cream, Desserts, Shake, Beverages",3.6,₹300 for two,https://www.zomato.com/bangalore/monaco-ice-cream-koramangala-6th-block-bangalore/info
+Bangalore,Chinese Wok,"Momos, Chinese",3.9,₹700 for two,https://www.zomato.com/bangalore/chinese-wok-hsr-bangalore/info
+Bangalore,Kari Theory - Namma Bar & Kitchen,"South Indian, North Indian, Street Food, Biryani, Continental, Asian, Italian, Bar Food",4.0,"₹3,500 for two",https://www.zomato.com/bangalore/kari-theory-namma-bar-kitchen-ulsoor-bangalore/info
+Bangalore,Tall Oaks,"Asian, Continental, North Indian, Chinese, Seafood, Mexican, Bar Food, South Indian",4.3,"₹1,200 for two",https://www.zomato.com/bangalore/tall-oaks-seegehalli-bangalore/info
+Bangalore,Roto Rooftop Taproom,"Continental, North Indian, Asian",N/A,"₹1,200 for two",https://www.zomato.com/bangalore/roto-rooftop-taproom-hennur-bangalore/info
+Bangalore,The Rameshwaram Cafe,"South Indian, Beverages",4.1,₹200 for two,https://www.zomato.com/bangalore/the-rameshwaram-cafe-indiranagar-bangalore/info
+Bangalore,The Drawing Room By Smoke House Deli,"Continental, Italian, Beverages",4.6,"₹3,000 for two",https://www.zomato.com/bangalore/the-drawing-room-by-smoke-house-deli-indiranagar-bangalore/info
+Bangalore,Burger King,"Burger, Fast Food, Desserts, Beverages",3.8,₹400 for two,https://www.zomato.com/bangalore/burger-king-new-bel-road/info
+Bangalore,HSR High Street,"Chinese, Oriental, North Indian, Mughlai, Biryani, Seafood, Desserts",3.9,"₹1,000 for two",https://www.zomato.com/bangalore/hsr-high-street-hsr/info
+Bangalore,Biggies Burger,"Burger, American, Fast Food, Wraps, Beverages, Shake",3.6,₹350 for two,https://www.zomato.com/bangalore/biggies-burger-cunningham-road-bangalore/info
+Bangalore,Barkaas Indo Arabic Restaurant,"Arabian, North Indian, Biryani, Mandi, Desserts",4.1,"₹1,000 for two",https://www.zomato.com/bangalore/barkaas-indo-arabic-restaurant-1-koramangala-5th-block-bangalore/info
+Bangalore,Aarzoo The Perfect Dessert Shop,"Desserts, Shake, Juices",4.1,₹400 for two,https://www.zomato.com/bangalore/aarzoo-the-perfect-dessert-shop-frazer-town-bangalore/info
+Bangalore,Antera Kitchen And Bar,"South Indian, North Indian, Biryani, Chinese, Desserts",4.4,"₹1,200 for two",https://www.zomato.com/bangalore/antera-kitchen-and-bar-marathahalli-bangalore/info
+Bangalore,Tiamo - Conrad Bengaluru,"Italian, Mediterranean, Fast Food",4.3,"₹3,000 for two",https://www.zomato.com/bangalore/tiamo-conrad-bengaluru-ulsoor/info
+Bangalore,Roti Kulcha aur Naan,N/A,3.5,₹500 for two,https://www.zomato.com/bangalore/roti-kulcha-aur-naan-hsr-bangalore/info
+Bangalore,Chin Lung Brewery,"Bar Food, Beverages",4.2,"₹1,000 for two",https://www.zomato.com/bangalore/chin-lung-brewery-indiranagar-bangalore/info
+Bangalore,Gabru Di Chaap,"North Indian, Momos, Fast Food, Wraps, Beverages",3.8,₹500 for two,https://www.zomato.com/bangalore/gabru-di-chaap-thippasandra-bangalore/info
+Bangalore,Raata Multicuisine Restaurant,"South Indian, Arabian",4.1,₹300 for two,https://www.zomato.com/bangalore/raata-multicuisine-restaurant-basaveshwara-nagar-bangalore/info
+Bangalore,The Pump House,"Continental, Chinese, North Indian, Italian, Asian, Salad, Pizza, Desserts",4.6,"₹1,600 for two",https://www.zomato.com/bangalore/the-pump-house-whitefield-bangalore/info
+Bangalore,Beijing Bites,"Chinese, Seafood, Thai, Rolls, Momos, Malaysian",4.0,"₹1,000 for two",https://www.zomato.com/bangalore/beijing-bites-3-jp-nagar/info
+Bangalore,Go Wild- Cafe Bar and Kitchen,N/A,3.8,"₹1,200 for two",https://www.zomato.com/bangalore/go-wild-cafe-bar-and-kitchen-koramangala-5th-block-bangalore/info
+Bangalore,Hangover Taproom,"North Indian, Continental, Asian, Fast Food",4.0,"₹1,600 for two",https://www.zomato.com/bangalore/hangover-taproom-indiranagar-bangalore/info
+Bangalore,Monkey Bar,"Continental, North Indian, Beverages",3.9,"₹2,000 for two",https://www.zomato.com/bangalore/monkey-bar-church-street-bangalore/info
+Bangalore,"Frozen Bottle - Milkshakes, Desserts And Ice Cream","Shake, Beverages, Desserts, Ice Cream, Waffle, Healthy Food",3.9,₹350 for two,https://www.zomato.com/bangalore/frozen-bottle-milkshakes-desserts-and-ice-cream-new-bel-road-bangalore/info
+Bangalore,Babai Tiffins,"South Indian, Andhra, Street Food",4.1,₹300 for two,https://www.zomato.com/bangalore/babai-tiffins-1-hsr-bangalore/info
+Bangalore,Chime - Sheraton Grand Bengaluru Whitefield Hotel & Convention Centre,"Finger Food, Shake",4.4,"₹3,000 for two",https://www.zomato.com/bangalore/chime-sheraton-grand-bengaluru-whitefield-hotel-convention-centre-itpl-main-road-whitefield-bangalore/info
+Bangalore,Absolute Shawarma,"Shawarma, Fast Food, Burger, Pizza, Wraps, Momos, Waffle, Shake",3.9,₹300 for two,https://www.zomato.com/bangalore/absolute-shawarma-chanapatna-bangalore/info
+Bangalore,The Black Pearl,"BBQ, North Indian, Biryani",4.2,"₹2,100 for two",https://www.zomato.com/bangalore/the-black-pearl-kadubeesanahalli-bangalore/info
+Bangalore,Third Wave Coffee,"Cafe, Coffee, Sandwich, Pizza, Fast Food, Tea, Beverages",4.0,₹700 for two,https://www.zomato.com/bangalore/third-wave-coffee-sarjapur-road-bangalore/info
+Bangalore,Roastea,"Coffee, Beverages, Italian, European",4.4,₹600 for two,https://www.zomato.com/bangalore/roastea-koramangala-4th-block-bangalore/info
+Bangalore,Entropy,"Pizza, Pasta, Italian, Desserts, Beverages",3.9,"₹1,000 for two",https://www.zomato.com/bangalore/entropy-bommanahalli-bangalore/info
+Bangalore,Olio - The Wood Fired Pizzeria,"Pizza, Italian",3.1,"₹1,000 for two",https://www.zomato.com/bangalore/olio-the-wood-fired-pizzeria-hosur-road-bangalore/info
+Bangalore,LIT Gastro Pub,"Continental, North Indian, Chinese, Italian, Bar Food, Beverages",4.1,"₹1,800 for two",https://www.zomato.com/bangalore/lit-gastro-pub-church-street-bangalore/info
+Bangalore,Soho,"Salad, Chinese, Kebab, Pizza, Fast Food, Biryani, Desserts, Beverages",4.0,"₹1,900 for two",https://www.zomato.com/bangalore/soho-basavanagudi-bangalore/info
+Bangalore,The Café Stories,"Chinese, Italian, Fast Food, Momos, Shake, Coffee, Beverages",4.1,₹300 for two,https://www.zomato.com/bangalore/the-caf%C3%A9-stories-whitefield-bangalore/info
+Bangalore,Nysa Sky Bar,"South Indian, Chinese, Pizza",4.4,"₹1,500 for two",https://www.zomato.com/bangalore/nysa-sky-bar-2-yelahanka-bangalore/info
+Bangalore,Toscano,"Italian, Pizza, Pasta, Continental, Seafood, Steak, Beverages",4.6,"₹1,800 for two",https://www.zomato.com/bangalore/toscano-koramangala-7th-block/info
+Bangalore,Taste Of India,"Biryani, Rolls, North Indian",3.7,₹550 for two,https://www.zomato.com/bangalore/taste-of-india-1-btm-bangalore/info
+Bangalore,PI - Lounge Bar,"Pizza, North Indian, Fast Food",3.8,"₹1,000 for two",https://www.zomato.com/bangalore/pi-lounge-bar-mahadevapura-bangalore/info
+Bangalore,Kacchi Dum Original Biryani,"Biryani, North Indian, Hyderabadi",3.3,"₹1,000 for two",https://www.zomato.com/bangalore/kacchi-dum-original-biryani-btm-bangalore/info
+Bangalore,AMMA'S BIRIYANI,"Biryani, Beverages, Desserts",-,₹600 for two,https://www.zomato.com/bangalore/ammas-biriyani-devanahalli/info
+Bangalore,Glassy 2.0,"Bar Food, North Indian, Biryani, Beverages",3.9,"₹1,700 for two",https://www.zomato.com/bangalore/glassy-2-0-bellandur-bangalore/info
+Bangalore,The Fisherman's Wharf,"North Indian, Chinese, Seafood, Goan, Finger Food, Continental, Desserts, Beverages",4.1,"₹1,900 for two",https://www.zomato.com/bangalore/the-fishermans-wharf-sarjapur-road/info
+Bangalore,Mystic Verdaance,"North Indian, Chinese, South Indian",N/A,"₹1,050 for two",https://www.zomato.com/bangalore/mystic-verdaance-1-jalahalli-bangalore/info
+Bangalore,7 Plates,"North Indian, Mughlai, Arabian, Chinese, Seafood",3.0,₹850 for two,https://www.zomato.com/bangalore/7-plates-kalyan-nagar/info
+Bangalore,Nido Craft Kitchen & Bar,"Bar Food, North Indian, Seafood, Chinese, South Indian, Continental, Italian, Desserts",4.4,"₹1,200 for two",https://www.zomato.com/bangalore/nido-craft-kitchen-bar-sahakara-nagar-bangalore/info
+Bangalore,JW Kitchen - JW Marriott Bengaluru,"North Indian, Continental, Mughlai, Beverages, Desserts, Asian",4.4,"₹5,000 for two",https://www.zomato.com/bangalore/jw-kitchen-jw-marriott-bengaluru-lavelle-road/info
+Bangalore,Soul Indian Specialty - Svenska Design Hotel,"North Indian, Kebab, Mughlai, Desserts",3.6,"₹2,500 for two",https://www.zomato.com/bangalore/soul-indian-specialty-svenska-design-hotel-electronic-city/info
+Bangalore,Bubbles & Co.,"Waffle, Bubble Tea, Shake, Beverages",4.0,₹550 for two,https://www.zomato.com/bangalore/bubbles-co-bellandur-bangalore/info
+Bangalore,Kottayam The Restaurant,"Kerala, Seafood, South Indian, Biryani, Chinese",3.4,₹500 for two,https://www.zomato.com/bangalore/kottayam-the-restaurant-2-hsr-bangalore/info
+Bangalore,Nandhini Deluxe,"Andhra, Biryani, North Indian, Chinese",3.8,"₹1,200 for two",https://www.zomato.com/bangalore/nandhini-deluxe-hesaraghatta-bangalore/info
+Bangalore,Sashay-Taproom Kitchen,"Asian, Modern Indian, Continental, Sushi, North Indian, Chinese, Desserts, Beverages",4.7,"₹2,000 for two",https://www.zomato.com/bangalore/sashay-taproom-kitchen-whitefield-bangalore/info
+Bangalore,BLR Chakna Bar,"Bar Food, South Indian, North Indian, Mughlai, Biryani, Chinese",N/A,"₹1,000 for two",https://www.zomato.com/bangalore/blr-chakna-bar-1-kadubeesanahalli-bangalore/info
+Bangalore,Hype - Shangri-La Hotel,"Finger Food, Beverages, Desserts",4.6,"₹3,500 for two",https://www.zomato.com/bangalore/hype-shangri-la-hotel-vasanth-nagar-bangalore/info
+Bangalore,Ambur Star Briyani Since 1890,"Biryani, South Indian, Chinese, Chettinad, North Indian, Sichuan",3.9,₹900 for two,https://www.zomato.com/bangalore/ambur-star-briyani-since-1890-jp-nagar-bangalore/info
+Bangalore,Hornbill’s Kitchen,"South Indian, Naga, Beverages",3.8,"₹1,000 for two",https://www.zomato.com/bangalore/hornbills-kitchen-koramangala-7th-block-bangalore/info
+Bangalore,Glen's Bakehouse,"Bakery, Cafe, Italian, Continental, Fast Food, Beverages, Desserts",3.6,"₹1,000 for two",https://www.zomato.com/bangalore/glens-bakehouse-sarjapur-road-bangalore/info
+Bangalore,Dhaba - Estd 1986 Delhi,"North Indian, Mughlai, Desserts, Paan",4.3,"₹1,200 for two",https://www.zomato.com/bangalore/dhaba-estd-1986-delhi-marathahalli-bangalore/info
+Bangalore,Nammuru Mangaluru,"Mangalorean, Seafood, Biryani",4.1,₹950 for two,https://www.zomato.com/bangalore/nammuru-mangaluru-jakkur-bangalore/info
+Bangalore,Nothing Before Coffee,"Cafe, Coffee, Tea, Shake, Fast Food, Beverages",4.0,₹300 for two,https://www.zomato.com/bangalore/nothing-before-coffee-koramangala-7th-block-bangalore/info
+Bangalore,Big Barrel BrewPub,"Chinese, Salad, North Indian, Oriental, Mexican, Italian, Continental, Beverages",4.3,"₹2,000 for two",https://www.zomato.com/bangalore/big-barrel-brewpub-rajarajeshwari-nagar-bangalore/info
+Bangalore,Brew Meister,"North Indian, Chinese, Fast Food, Mughlai, Pizza, Seafood, Desserts, Beverages",4.0,"₹2,000 for two",https://www.zomato.com/bangalore/brew-meister-jayanagar/info
+Bangalore,Karama Restaurant,"Kashmiri, Mughlai, Arabian, BBQ, Seafood, Biryani, North Indian, Desserts",4.0,"₹1,200 for two",https://www.zomato.com/bangalore/karama-restaurant-frazer-town/info
+Bangalore,Al Daaz,"North Indian, Chinese, Mughlai, BBQ, Seafood, Fast Food, Biryani, Beverages",3.9,₹600 for two,https://www.zomato.com/bangalore/al-daaz-hsr/info
+Mumbai,BAĞLAMI,N/A,3.8,N/A,https://www.zomato.com/mumbai/ba%C4%9Flami-bandra-kurla-complex/info
+Mumbai,Lyla,N/A,4.0,N/A,https://www.zomato.com/mumbai/lyla-bandra-kurla-complex/info
+Mumbai,Amazonia,N/A,4.1,N/A,https://www.zomato.com/mumbai/amazonia-bandra-kurla-complex/info
+Mumbai,Bandra Born,N/A,4.7,N/A,https://www.zomato.com/mumbai/bandra-born-bandstand-bandra-west/info
+Mumbai,Global Fusion,N/A,4.1,N/A,https://www.zomato.com/mumbai/global-fusion-chembur/info
+Mumbai,Tanatan,N/A,4.6,N/A,https://www.zomato.com/mumbai/tanatan-dadar-shivaji-park/info
+Mumbai,Millo,N/A,4.4,N/A,https://www.zomato.com/mumbai/millo-lower-parel/info
+Mumbai,SAZ American Brasserie,N/A,4.5,N/A,https://www.zomato.com/mumbai/saz-american-brasserie-bandra-east/info
+Mumbai,Not Just Tamasha,N/A,4.4,N/A,https://www.zomato.com/mumbai/not-just-tamasha-lower-parel/info
