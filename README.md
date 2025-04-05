@@ -20,7 +20,7 @@ Want to see how this project was built from scratch? Check out my full video exp
 - Data cleaning and transformation in Python
 - Power BI dashboard design and insights
 
-🔗 **Watch the video here:** [Project Walkthrough – Zomato Price Comparison](https://drive.google.com/your-video-link)
+🔗 **Watch the video here:** [Project Walkthrough – Zomato Price Comparison](https://drive.google.com/file/d/1caaEwDGKQf5DSrE-R106ve4XXeHWhBQV/view?usp=drive_link)
 
 ---
 
