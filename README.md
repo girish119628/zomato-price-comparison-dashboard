@@ -51,11 +51,11 @@ Want to see how this project was built from scratch? Check out my full video exp
 
 ## Dashboard Snapshots
 
-> Include a few screenshots or a GIF here if possible showing your Power BI dashboard.
+> **Power BI dashboard snapshot:** [Dashboard snapshort](https://drive.google.com/file/d/1OgSNlHQgd7HXkr-9Nj8we56aLBWYvD3Z/view?usp=drive_link)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 📦 zomato-price-comparison-dashboard/ ├── data/ │ └── zomato_mathura.csv ├── images/ │ └── dashboard_screenshot.png ├── notebooks/ │ └── data_cleaning.ipynb ├── dashboard/ │ └── zomato_dashboard.pbix ├── README.md └── requirements.txt
 
